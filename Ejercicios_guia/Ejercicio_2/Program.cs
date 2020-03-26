@@ -10,6 +10,7 @@ namespace Ejercicio_2
     {
         static void Main(string[] args)
         {
+            Console.Title="Ejercicio 2";
            int numero;
 
             Console.WriteLine("Ingrese un numero");
@@ -17,7 +18,7 @@ namespace Ejercicio_2
             while (numero < 0)
             {
                 Console.WriteLine("ERROR. ¡Reingresar número!");
-                numero = Convert.ToInt32(Console.ReadLine());
+               
             }
 
             Console.WriteLine("Cuadrado: {0}", Math.Pow(numero, 2));

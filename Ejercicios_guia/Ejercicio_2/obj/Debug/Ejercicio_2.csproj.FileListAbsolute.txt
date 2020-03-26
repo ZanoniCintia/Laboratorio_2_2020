@@ -4,3 +4,9 @@ C:\Users\Dell-7480T\Desktop\Laboratorio_2_2020\Ejercicios_guia\Ejercicio_2\bin\D
 C:\Users\Dell-7480T\Desktop\Laboratorio_2_2020\Ejercicios_guia\Ejercicio_2\obj\Debug\Ejercicio_2.csprojAssemblyReference.cache
 C:\Users\Dell-7480T\Desktop\Laboratorio_2_2020\Ejercicios_guia\Ejercicio_2\obj\Debug\Ejercicio_2.exe
 C:\Users\Dell-7480T\Desktop\Laboratorio_2_2020\Ejercicios_guia\Ejercicio_2\obj\Debug\Ejercicio_2.pdb
+C:\cintia\Laboratorio_2_2020\Ejercicios_guia\Ejercicio_2\bin\Debug\Ejercicio_2.exe.config
+C:\cintia\Laboratorio_2_2020\Ejercicios_guia\Ejercicio_2\bin\Debug\Ejercicio_2.exe
+C:\cintia\Laboratorio_2_2020\Ejercicios_guia\Ejercicio_2\bin\Debug\Ejercicio_2.pdb
+C:\cintia\Laboratorio_2_2020\Ejercicios_guia\Ejercicio_2\obj\Debug\Ejercicio_2.csprojAssemblyReference.cache
+C:\cintia\Laboratorio_2_2020\Ejercicios_guia\Ejercicio_2\obj\Debug\Ejercicio_2.exe
+C:\cintia\Laboratorio_2_2020\Ejercicios_guia\Ejercicio_2\obj\Debug\Ejercicio_2.pdb

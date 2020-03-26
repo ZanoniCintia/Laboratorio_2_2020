@@ -1,0 +1,5 @@
+C:\cintia\Laboratorio_2_2020\Ejercicios_guia\Ejercicio_6\bin\Debug\Ejercicio_6.exe.config
+C:\cintia\Laboratorio_2_2020\Ejercicios_guia\Ejercicio_6\bin\Debug\Ejercicio_6.exe
+C:\cintia\Laboratorio_2_2020\Ejercicios_guia\Ejercicio_6\bin\Debug\Ejercicio_6.pdb
+C:\cintia\Laboratorio_2_2020\Ejercicios_guia\Ejercicio_6\obj\Debug\Ejercicio_6.exe
+C:\cintia\Laboratorio_2_2020\Ejercicios_guia\Ejercicio_6\obj\Debug\Ejercicio_6.pdb

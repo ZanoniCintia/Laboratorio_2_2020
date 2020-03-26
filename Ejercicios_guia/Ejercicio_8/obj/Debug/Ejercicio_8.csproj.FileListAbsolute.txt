@@ -1,0 +1,6 @@
+C:\cintia\Laboratorio_2_2020\Ejercicios_guia\Ejercicio_8\bin\Debug\Ejercicio_8.exe.config
+C:\cintia\Laboratorio_2_2020\Ejercicios_guia\Ejercicio_8\bin\Debug\Ejercicio_8.exe
+C:\cintia\Laboratorio_2_2020\Ejercicios_guia\Ejercicio_8\bin\Debug\Ejercicio_8.pdb
+C:\cintia\Laboratorio_2_2020\Ejercicios_guia\Ejercicio_8\obj\Debug\Ejercicio_8.csprojAssemblyReference.cache
+C:\cintia\Laboratorio_2_2020\Ejercicios_guia\Ejercicio_8\obj\Debug\Ejercicio_8.exe
+C:\cintia\Laboratorio_2_2020\Ejercicios_guia\Ejercicio_8\obj\Debug\Ejercicio_8.pdb
