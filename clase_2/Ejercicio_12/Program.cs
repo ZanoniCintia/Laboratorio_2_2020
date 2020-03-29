@@ -22,7 +22,7 @@ namespace Ejercicio_12
                 acumulador += numero;
             } while (ValidarRespuesta.ValidaS_N(char.Parse(Console.ReadLine())));
 
-            Console.WriteLine($"acumulacion de numeros es {acumulador}");
+            Console.WriteLine($"La suma total de los numeros es {acumulador}");
             Console.ReadKey();
         }
     }
