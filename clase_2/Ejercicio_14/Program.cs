@@ -12,29 +12,58 @@ namespace Ejercicio_14
         {
             Console.Title = "Ejercicio_14";
 
-            double cuadrado;
-            double basee;
-            double altura;
-            double radio;
+            int opcion;
+            double numeroUno;
+            double numeroDos;
+            string seguir = "s";
 
-            Console.WriteLine("Calculo de Areas");
-            Console.WriteLine("Ingrese Lado del cuadrado :");
-            cuadrado = Double.Parse(  Console.ReadLine());
-            Console.WriteLine($"El area del cuadrado es : {CalculoDeArea.CalcularCuadrado(cuadrado)}");
+            do
+            {
+                Console.Clear();
+                Console.WriteLine("1. Calcular area de un cuadrado");
+                Console.WriteLine("2. Calcular area de un triangulo");
+                Console.WriteLine("3. Calcular area de un circulo");
+                while (!Int32.TryParse(Console.ReadLine(), out opcion) || opcion > 3 || opcion < 1)
+                {
+                    Console.WriteLine("Ingrese una opcion valida");
+                }
+                switch (opcion)
+                {
+                    case 1:
+                        Console.WriteLine("Ingrese lado del cuadrado :");
+                        while (!double.TryParse(Console.ReadLine(), out numeroUno))
+                        {
+                            Console.WriteLine("Ingrese un valor valido");
+                        }
+                        Console.WriteLine($"El area del cuadrado es: {CalculoDeArea.CalcularCuadrado(numeroUno)}");
+                        break;
+                    case 2:
+                        Console.WriteLine("Ingrese base del triangulo :");
+                        while (!double.TryParse(Console.ReadLine(), out numeroUno))
+                        {
+                            Console.WriteLine("Ingrese un valor valido");
+                        }
+                        Console.WriteLine("Ingrese altura del triangulo :");
+                        while (!double.TryParse(Console.ReadLine(), out numeroDos))
+                        {
+                            Console.WriteLine("Ingrese un valor valido");
+                        }
+                        Console.WriteLine($"El area del triangulo es: {CalculoDeArea.CalcularTriangulo(numeroUno,numeroDos)}");
+                        break;
+                    case 3:
+                        Console.WriteLine("Ingrese radio del circulo :");
+                        while (!double.TryParse(Console.ReadLine(), out numeroUno))
+                        {
+                            Console.WriteLine("Ingrese un valor valido");
+                        }
+                        Console.WriteLine($"El area del circulo es: {CalculoDeArea.CalcularCirculo(numeroUno)}");
+                        break;
+                }
+                Console.WriteLine("Presione s para seguir");
+            } while (Console.ReadKey().KeyChar == 's');
 
-            Console.WriteLine("Ingrese base del triangulo: ");
-            basee = Double.Parse(Console.ReadLine());
-            Console.WriteLine("Ingrese altura del triangulo: ");
-            altura = Double.Parse(Console.ReadLine());
-            Console.WriteLine($"El area del Triangulo es: {CalculoDeArea.CalcularTriangulo(basee,altura)}");
 
-            Console.WriteLine("Ingrese radio del circulo :");
-            radio = Double.Parse(Console.ReadLine());
-            Console.WriteLine($"El area del circulo es: {CalculoDeArea.CalcularCirculo(radio)}");
-
-
-
-            Console.ReadKey();
+           
         }
     }
 }

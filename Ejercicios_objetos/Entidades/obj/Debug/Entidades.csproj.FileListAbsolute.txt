@@ -1,0 +1,5 @@
+C:\cintia\Laboratorio_2_2020\Ejercicios_objetos\Entidades\bin\Debug\Entidades.dll
+C:\cintia\Laboratorio_2_2020\Ejercicios_objetos\Entidades\bin\Debug\Entidades.pdb
+C:\cintia\Laboratorio_2_2020\Ejercicios_objetos\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\cintia\Laboratorio_2_2020\Ejercicios_objetos\Entidades\obj\Debug\Entidades.dll
+C:\cintia\Laboratorio_2_2020\Ejercicios_objetos\Entidades\obj\Debug\Entidades.pdb
