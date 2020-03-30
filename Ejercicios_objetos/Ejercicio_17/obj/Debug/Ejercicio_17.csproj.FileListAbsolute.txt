@@ -1,0 +1,9 @@
+C:\cintia\Laboratorio_2_2020\Ejercicios_objetos\Ejercicio_17\bin\Debug\Ejercicio_17.exe.config
+C:\cintia\Laboratorio_2_2020\Ejercicios_objetos\Ejercicio_17\bin\Debug\Ejercicio_17.exe
+C:\cintia\Laboratorio_2_2020\Ejercicios_objetos\Ejercicio_17\bin\Debug\Ejercicio_17.pdb
+C:\cintia\Laboratorio_2_2020\Ejercicios_objetos\Ejercicio_17\bin\Debug\Entidades.dll
+C:\cintia\Laboratorio_2_2020\Ejercicios_objetos\Ejercicio_17\bin\Debug\Entidades.pdb
+C:\cintia\Laboratorio_2_2020\Ejercicios_objetos\Ejercicio_17\obj\Debug\Ejercicio_17.csprojAssemblyReference.cache
+C:\cintia\Laboratorio_2_2020\Ejercicios_objetos\Ejercicio_17\obj\Debug\Ejercicio_17.csproj.CopyComplete
+C:\cintia\Laboratorio_2_2020\Ejercicios_objetos\Ejercicio_17\obj\Debug\Ejercicio_17.exe
+C:\cintia\Laboratorio_2_2020\Ejercicios_objetos\Ejercicio_17\obj\Debug\Ejercicio_17.pdb
