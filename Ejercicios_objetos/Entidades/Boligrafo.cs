@@ -12,37 +12,42 @@ namespace Entidades
         private ConsoleColor color;
         private short tinta;
 
-        public Boligrafo(ConsoleColor color,short tinta)
+        public Boligrafo(short tinta, ConsoleColor color)
         {
-            color = this.color;
-            tinta = this.tinta;
+            this.color=color;
+            this.tinta=tinta;
         }
-        public ConsoleColor GetColor
+        public ConsoleColor GetColor()
         {
-            get { return this.color; }
+          return this.color; 
+
+        }
+      
+
+        
+
+        public int GetTinta()
+        {
+            return this.tinta;
             
         }
-        public short GetTinta
-        {
-            get { return this.tinta; }
 
-        }
-       
         private void SetTinta(short tinta)
         {
-            if (tinta >= 0 && tinta == cantidadTintaMaxima)
+            int cantidadTinta = this.tinta + tinta;
+            if (cantidadTinta >= cantidadTintaMaxima)
             {
-                if (tinta > 0 && tinta < 100)
-                {
-                    Console.WriteLine("Cargar tinta");
-                }
-                else if (tinta < 0)
-                {
-                    Console.WriteLine("Gastar tinta");
-                }
+                this.tinta = cantidadTintaMaxima;
             }
-        }
+            else if (cantidadTinta >= 0 && cantidadTinta < cantidadTintaMaxima)
+            {
+                this.tinta = (short)cantidadTinta;
+            }
 
+            
+
+
+        }
         public void Recargar()
         {
             SetTinta(cantidadTintaMaxima);
@@ -50,23 +55,29 @@ namespace Entidades
 
         public bool Pintar(short gasto, out string dibujo)
         {
-           
-            dibujo = "*";
-            if (gasto > 0)
+            bool ret = false;
+            dibujo = "";
+            if (this.tinta - gasto >= 0)
             {
-                SetTinta(gasto);
-                Console.WriteLine("Puede pintar");
+                SetTinta((short)-gasto);
                 for (int i = 0; i < gasto; i++)
                 {
-                    
-                    Console.WriteLine(dibujo);
+                    dibujo += "*";
                 }
-                
-            } 
-            return true;
+                ret = true;
+            }
+            else
+            {
+                for (int i = this.tinta; i > 0; i--)
+                {
+                    dibujo += "*";
+                }
+                SetTinta((short)-this.tinta);
+                ret = false;
+            }
+            
+            return ret;
         }
-
-
 
     }
 }
