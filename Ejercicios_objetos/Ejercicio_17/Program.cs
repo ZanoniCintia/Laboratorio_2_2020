@@ -12,8 +12,8 @@ namespace Ejercicio_17
         {
             Console.Title = "Ejercicio 17";
 
-            Boligrafo azul = new Boligrafo(100,ConsoleColor.Blue);
-            Boligrafo rojo = new Boligrafo(50,ConsoleColor.Red);
+            Boligrafo azul = new Boligrafo(100, ConsoleColor.Blue);
+            Boligrafo rojo = new Boligrafo(50, ConsoleColor.Red);
             String dibujo;
             
 
