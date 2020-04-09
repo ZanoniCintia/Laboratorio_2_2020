@@ -31,6 +31,11 @@ namespace Entidades
             return this.cantidad;
         }
 
+        public static void SetCotizacion(double cotizacion)
+        {
+            Dolar.cotizRespectoDolar = cotizacion;
+        }
+
         public static double GetCotizacion()
         {
             return Dolar.cotizRespectoDolar;
@@ -38,18 +43,19 @@ namespace Entidades
 
         public static explicit operator Euro(Dolar d)
         {
-            return (d.GetCantidad() / Euro.GetCotizacion());
+            return new Euro(d.GetCantidad() * Euro.GetCotizacion());
+            
         }
 
         public static explicit operator Pesos(Dolar d)
         {
-            return (d.GetCantidad() / Pesos.GetCotizacion());
+            return new Pesos(d.GetCantidad() * Pesos.GetCotizacion());
         }
 
         public static implicit operator Dolar(double d)
         {
-            Dolar nuevo=new Dolar(d);
-            return nuevo;
+            Dolar d1 = new Dolar(d);
+            return d1;
         }
 
         public static bool operator ==(Dolar d1,Dolar d2)

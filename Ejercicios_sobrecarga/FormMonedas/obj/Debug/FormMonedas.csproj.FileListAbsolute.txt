@@ -1,0 +1,12 @@
+C:\cintia\Laboratorio_2_2020\Ejercicios_sobrecarga\FormMonedas\bin\Debug\FormMonedas.exe.config
+C:\cintia\Laboratorio_2_2020\Ejercicios_sobrecarga\FormMonedas\bin\Debug\FormMonedas.exe
+C:\cintia\Laboratorio_2_2020\Ejercicios_sobrecarga\FormMonedas\bin\Debug\FormMonedas.pdb
+C:\cintia\Laboratorio_2_2020\Ejercicios_sobrecarga\FormMonedas\bin\Debug\Entidades.dll
+C:\cintia\Laboratorio_2_2020\Ejercicios_sobrecarga\FormMonedas\bin\Debug\Entidades.pdb
+C:\cintia\Laboratorio_2_2020\Ejercicios_sobrecarga\FormMonedas\obj\Debug\FormMonedas.csprojAssemblyReference.cache
+C:\cintia\Laboratorio_2_2020\Ejercicios_sobrecarga\FormMonedas\obj\Debug\FormMonedas.Form1.resources
+C:\cintia\Laboratorio_2_2020\Ejercicios_sobrecarga\FormMonedas\obj\Debug\FormMonedas.Properties.Resources.resources
+C:\cintia\Laboratorio_2_2020\Ejercicios_sobrecarga\FormMonedas\obj\Debug\FormMonedas.csproj.GenerateResource.cache
+C:\cintia\Laboratorio_2_2020\Ejercicios_sobrecarga\FormMonedas\obj\Debug\FormMonedas.csproj.CopyComplete
+C:\cintia\Laboratorio_2_2020\Ejercicios_sobrecarga\FormMonedas\obj\Debug\FormMonedas.exe
+C:\cintia\Laboratorio_2_2020\Ejercicios_sobrecarga\FormMonedas\obj\Debug\FormMonedas.pdb

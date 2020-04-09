@@ -1,0 +1,9 @@
+C:\cintia\Laboratorio_2_2020\Ejercicios_sobrecarga\Ejercicio_20\bin\Debug\Ejercicio_20.exe.config
+C:\cintia\Laboratorio_2_2020\Ejercicios_sobrecarga\Ejercicio_20\bin\Debug\Ejercicio_20.exe
+C:\cintia\Laboratorio_2_2020\Ejercicios_sobrecarga\Ejercicio_20\bin\Debug\Ejercicio_20.pdb
+C:\cintia\Laboratorio_2_2020\Ejercicios_sobrecarga\Ejercicio_20\bin\Debug\Entidades.dll
+C:\cintia\Laboratorio_2_2020\Ejercicios_sobrecarga\Ejercicio_20\bin\Debug\Entidades.pdb
+C:\cintia\Laboratorio_2_2020\Ejercicios_sobrecarga\Ejercicio_20\obj\Debug\Ejercicio_20.csprojAssemblyReference.cache
+C:\cintia\Laboratorio_2_2020\Ejercicios_sobrecarga\Ejercicio_20\obj\Debug\Ejercicio_20.csproj.CopyComplete
+C:\cintia\Laboratorio_2_2020\Ejercicios_sobrecarga\Ejercicio_20\obj\Debug\Ejercicio_20.exe
+C:\cintia\Laboratorio_2_2020\Ejercicios_sobrecarga\Ejercicio_20\obj\Debug\Ejercicio_20.pdb
