@@ -84,7 +84,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(35, 271);
+            this.label3.Location = new System.Drawing.Point(35, 250);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(99, 37);
             this.label3.TabIndex = 2;
@@ -94,7 +94,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(41, 362);
+            this.label4.Location = new System.Drawing.Point(41, 333);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(93, 37);
             this.label4.TabIndex = 3;
@@ -139,14 +139,14 @@
             // 
             // txtDolar
             // 
-            this.txtDolar.Location = new System.Drawing.Point(171, 277);
+            this.txtDolar.Location = new System.Drawing.Point(171, 250);
             this.txtDolar.Name = "txtDolar";
             this.txtDolar.Size = new System.Drawing.Size(170, 31);
             this.txtDolar.TabIndex = 8;
             // 
             // txtPeso
             // 
-            this.txtPeso.Location = new System.Drawing.Point(171, 368);
+            this.txtPeso.Location = new System.Drawing.Point(171, 339);
             this.txtPeso.Name = "txtPeso";
             this.txtPeso.Size = new System.Drawing.Size(170, 31);
             this.txtPeso.TabIndex = 9;
@@ -157,6 +157,7 @@
             this.txtCotizacionEuro.Name = "txtCotizacionEuro";
             this.txtCotizacionEuro.Size = new System.Drawing.Size(170, 31);
             this.txtCotizacionEuro.TabIndex = 10;
+            this.txtCotizacionEuro.Leave += new System.EventHandler(this.txtCotizacionEuro_Leave);
             // 
             // txtCotizacionDolar
             // 
@@ -164,6 +165,7 @@
             this.txtCotizacionDolar.Name = "txtCotizacionDolar";
             this.txtCotizacionDolar.Size = new System.Drawing.Size(170, 31);
             this.txtCotizacionDolar.TabIndex = 11;
+            this.txtCotizacionDolar.Leave += new System.EventHandler(this.txtCotizacionDolar_Leave);
             // 
             // txtCotizacionPeso
             // 
@@ -171,9 +173,11 @@
             this.txtCotizacionPeso.Name = "txtCotizacionPeso";
             this.txtCotizacionPeso.Size = new System.Drawing.Size(170, 31);
             this.txtCotizacionPeso.TabIndex = 12;
+            this.txtCotizacionPeso.Leave += new System.EventHandler(this.txtCotizacionPeso_Leave);
             // 
             // txtEuroAEuro
             // 
+            this.txtEuroAEuro.Enabled = false;
             this.txtEuroAEuro.Location = new System.Drawing.Point(559, 168);
             this.txtEuroAEuro.Name = "txtEuroAEuro";
             this.txtEuroAEuro.Size = new System.Drawing.Size(170, 31);
@@ -181,20 +185,23 @@
             // 
             // txtDolarAEuro
             // 
-            this.txtDolarAEuro.Location = new System.Drawing.Point(559, 271);
+            this.txtDolarAEuro.Enabled = false;
+            this.txtDolarAEuro.Location = new System.Drawing.Point(559, 256);
             this.txtDolarAEuro.Name = "txtDolarAEuro";
             this.txtDolarAEuro.Size = new System.Drawing.Size(170, 31);
             this.txtDolarAEuro.TabIndex = 14;
             // 
             // txtPesoAEuro
             // 
-            this.txtPesoAEuro.Location = new System.Drawing.Point(559, 368);
+            this.txtPesoAEuro.Enabled = false;
+            this.txtPesoAEuro.Location = new System.Drawing.Point(559, 339);
             this.txtPesoAEuro.Name = "txtPesoAEuro";
             this.txtPesoAEuro.Size = new System.Drawing.Size(170, 31);
             this.txtPesoAEuro.TabIndex = 15;
             // 
             // txtEuroADolar
             // 
+            this.txtEuroADolar.Enabled = false;
             this.txtEuroADolar.Location = new System.Drawing.Point(781, 168);
             this.txtEuroADolar.Name = "txtEuroADolar";
             this.txtEuroADolar.Size = new System.Drawing.Size(170, 31);
@@ -202,20 +209,23 @@
             // 
             // txtDolarADolar
             // 
-            this.txtDolarADolar.Location = new System.Drawing.Point(781, 271);
+            this.txtDolarADolar.Enabled = false;
+            this.txtDolarADolar.Location = new System.Drawing.Point(781, 256);
             this.txtDolarADolar.Name = "txtDolarADolar";
             this.txtDolarADolar.Size = new System.Drawing.Size(170, 31);
             this.txtDolarADolar.TabIndex = 17;
             // 
             // txtPesoADolar
             // 
-            this.txtPesoADolar.Location = new System.Drawing.Point(781, 368);
+            this.txtPesoADolar.Enabled = false;
+            this.txtPesoADolar.Location = new System.Drawing.Point(781, 339);
             this.txtPesoADolar.Name = "txtPesoADolar";
             this.txtPesoADolar.Size = new System.Drawing.Size(170, 31);
             this.txtPesoADolar.TabIndex = 18;
             // 
             // txtEuroAPeso
             // 
+            this.txtEuroAPeso.Enabled = false;
             this.txtEuroAPeso.Location = new System.Drawing.Point(980, 168);
             this.txtEuroAPeso.Name = "txtEuroAPeso";
             this.txtEuroAPeso.Size = new System.Drawing.Size(170, 31);
@@ -223,14 +233,16 @@
             // 
             // txtDolarAPeso
             // 
-            this.txtDolarAPeso.Location = new System.Drawing.Point(980, 271);
+            this.txtDolarAPeso.Enabled = false;
+            this.txtDolarAPeso.Location = new System.Drawing.Point(980, 256);
             this.txtDolarAPeso.Name = "txtDolarAPeso";
             this.txtDolarAPeso.Size = new System.Drawing.Size(170, 31);
             this.txtDolarAPeso.TabIndex = 20;
             // 
             // txtPesoAPeso
             // 
-            this.txtPesoAPeso.Location = new System.Drawing.Point(980, 368);
+            this.txtPesoAPeso.Enabled = false;
+            this.txtPesoAPeso.Location = new System.Drawing.Point(980, 339);
             this.txtPesoAPeso.Name = "txtPesoAPeso";
             this.txtPesoAPeso.Size = new System.Drawing.Size(170, 31);
             this.txtPesoAPeso.TabIndex = 21;
@@ -261,24 +273,27 @@
             this.btnConvertEuro.TabIndex = 23;
             this.btnConvertEuro.Text = "->";
             this.btnConvertEuro.UseVisualStyleBackColor = true;
+            this.btnConvertEuro.Click += new System.EventHandler(this.btnConvertEuro_Click);
             // 
             // btnConvertDolar
             // 
-            this.btnConvertDolar.Location = new System.Drawing.Point(360, 265);
+            this.btnConvertDolar.Location = new System.Drawing.Point(360, 244);
             this.btnConvertDolar.Name = "btnConvertDolar";
             this.btnConvertDolar.Size = new System.Drawing.Size(181, 43);
             this.btnConvertDolar.TabIndex = 24;
             this.btnConvertDolar.Text = "->";
             this.btnConvertDolar.UseVisualStyleBackColor = true;
+            this.btnConvertDolar.Click += new System.EventHandler(this.btnConvertDolar_Click);
             // 
             // btnConvertPeso
             // 
-            this.btnConvertPeso.Location = new System.Drawing.Point(360, 362);
+            this.btnConvertPeso.Location = new System.Drawing.Point(360, 333);
             this.btnConvertPeso.Name = "btnConvertPeso";
             this.btnConvertPeso.Size = new System.Drawing.Size(181, 43);
             this.btnConvertPeso.TabIndex = 25;
             this.btnConvertPeso.Text = "->";
             this.btnConvertPeso.UseVisualStyleBackColor = true;
+            this.btnConvertPeso.Click += new System.EventHandler(this.btnConvertPeso_Click);
             // 
             // Form1
             // 

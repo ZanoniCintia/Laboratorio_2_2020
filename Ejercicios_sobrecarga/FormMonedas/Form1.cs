@@ -44,5 +44,101 @@ namespace FormMonedas
                 txtCotizacionEuro.Enabled = true;
             }
         }
+
+        private void txtCotizacionEuro_Leave(object sender, EventArgs e)
+        {
+            double aux;
+            if (double.TryParse(txtCotizacionEuro.Text, out aux))
+            {
+                Euro.SetCotizacion(aux);
+            }
+            else
+            {
+                this.txtCotizacionEuro.Focus();
+            }
+        }
+
+        private void txtCotizacionDolar_Leave(object sender, EventArgs e)
+        {
+            double aux;
+            if(double.TryParse(txtCotizacionDolar.Text,out aux))
+            {
+                Dolar.SetCotizacion(aux);
+            }
+            else
+            {
+                txtCotizacionDolar.Focus();
+            }
+        }
+
+        private void txtCotizacionPeso_Leave(object sender, EventArgs e)
+        {
+            double aux;
+            if(double.TryParse(txtCotizacionPeso.Text,out aux))
+            {
+                Pesos.SetCotizacion(aux);
+            }
+            else
+            {
+                txtCotizacionPeso.Focus();
+            }
+        }
+
+        private void btnConvertEuro_Click(object sender, EventArgs e)
+        {
+            double aux;
+            if (Double.TryParse(txtEuro.Text, out aux))
+            {
+                Euro eurs = new Euro(aux);
+                Pesos pes = (Pesos)eurs;
+                Dolar dolares = (Dolar)eurs;
+
+                txtEuroAEuro.Text = eurs.GetCantidad().ToString();
+                txtEuroADolar.Text = dolares.GetCantidad().ToString();
+                txtEuroAPeso.Text = pes.GetCantidad().ToString();
+            }
+            else
+            {
+                txtEuro.Focus();
+            }
+        }
+
+        private void btnConvertDolar_Click(object sender, EventArgs e)
+        {
+            double aux;
+            if (Double.TryParse(txtEuro.Text, out aux))
+            {
+                Dolar dolares = new Dolar(aux);
+                Pesos pes = (Pesos)dolares;
+                Euro euros = (Euro)dolares;
+
+                txtDolarAEuro.Text = euros.GetCantidad().ToString();
+                txtDolarADolar.Text = dolares.GetCantidad().ToString();
+                txtDolarAPeso.Text = pes.GetCantidad().ToString();
+            }
+            else
+            {
+                txtDolar.Focus();
+            }
+        }
+
+        private void btnConvertPeso_Click(object sender, EventArgs e)
+        {
+            double aux;
+            if (Double.TryParse(txtEuro.Text, out aux))
+            {
+                Pesos pes = new Pesos(aux);
+                Dolar dolares = (Dolar)pes;
+                Euro euros = (Euro)pes;
+
+                txtPesoAEuro.Text = euros.GetCantidad().ToString();
+                txtPesoADolar.Text = dolares.GetCantidad().ToString();
+                txtPesoAPeso.Text = pes.GetCantidad().ToString();
+            }
+            else
+            {
+                txtPeso.Focus();
+            }
+        }
     }
 }
