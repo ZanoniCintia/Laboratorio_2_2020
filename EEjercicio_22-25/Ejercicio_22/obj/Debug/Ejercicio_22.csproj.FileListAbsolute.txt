@@ -1,0 +1,9 @@
+C:\Users\Dell-7480T\source\repos\Ejercicio_22-25\Ejercicio_22\bin\Debug\Ejercicio_22.exe.config
+C:\Users\Dell-7480T\source\repos\Ejercicio_22-25\Ejercicio_22\bin\Debug\Ejercicio_22.exe
+C:\Users\Dell-7480T\source\repos\Ejercicio_22-25\Ejercicio_22\bin\Debug\Ejercicio_22.pdb
+C:\Users\Dell-7480T\source\repos\Ejercicio_22-25\Ejercicio_22\bin\Debug\Entidades.dll
+C:\Users\Dell-7480T\source\repos\Ejercicio_22-25\Ejercicio_22\bin\Debug\Entidades.pdb
+C:\Users\Dell-7480T\source\repos\Ejercicio_22-25\Ejercicio_22\obj\Debug\Ejercicio_22.csprojAssemblyReference.cache
+C:\Users\Dell-7480T\source\repos\Ejercicio_22-25\Ejercicio_22\obj\Debug\Ejercicio_22.csproj.CopyComplete
+C:\Users\Dell-7480T\source\repos\Ejercicio_22-25\Ejercicio_22\obj\Debug\Ejercicio_22.exe
+C:\Users\Dell-7480T\source\repos\Ejercicio_22-25\Ejercicio_22\obj\Debug\Ejercicio_22.pdb
