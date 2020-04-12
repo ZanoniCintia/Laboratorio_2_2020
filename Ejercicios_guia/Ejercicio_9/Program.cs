@@ -21,7 +21,7 @@ namespace Ejercicio_9
                 Console.WriteLine(cadena);
                 for (int i = 0; i < altura; i++)
                 {
-                    cadena = cadena + "**";
+                    cadena = cadena + "*";
                     Console.WriteLine(cadena);
                 }
             }

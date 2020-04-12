@@ -21,11 +21,12 @@ namespace Ejercicio_10
                 Console.WriteLine(cadena);
                 for (int i = 0; i < altura; i++)
                 {
+                   
                     cadena = cadena + "**";
                     Console.WriteLine(cadena);
                 }
             }
-
+            
             Console.ReadKey();
         }
     }
