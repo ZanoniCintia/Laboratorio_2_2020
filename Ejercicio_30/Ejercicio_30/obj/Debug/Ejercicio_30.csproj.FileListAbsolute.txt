@@ -1,0 +1,9 @@
+C:\Users\Dell-7480T\source\repos\Entidades\Ejercicio_30\obj\Debug\Ejercicio_30.csprojAssemblyReference.cache
+C:\Users\Dell-7480T\source\repos\Entidades\Ejercicio_30\bin\Debug\Ejercicio_30.exe.config
+C:\Users\Dell-7480T\source\repos\Entidades\Ejercicio_30\bin\Debug\Ejercicio_30.exe
+C:\Users\Dell-7480T\source\repos\Entidades\Ejercicio_30\bin\Debug\Ejercicio_30.pdb
+C:\Users\Dell-7480T\source\repos\Entidades\Ejercicio_30\bin\Debug\Entidades.dll
+C:\Users\Dell-7480T\source\repos\Entidades\Ejercicio_30\bin\Debug\Entidades.pdb
+C:\Users\Dell-7480T\source\repos\Entidades\Ejercicio_30\obj\Debug\Ejercicio_30.csproj.CopyComplete
+C:\Users\Dell-7480T\source\repos\Entidades\Ejercicio_30\obj\Debug\Ejercicio_30.exe
+C:\Users\Dell-7480T\source\repos\Entidades\Ejercicio_30\obj\Debug\Ejercicio_30.pdb
