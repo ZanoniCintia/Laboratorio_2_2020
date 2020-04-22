@@ -22,31 +22,31 @@ namespace Ejercicio_31
 
             if(negocio1 + cliente1)
             {
-                Console.WriteLine("Agregado cliente1");
+                Console.WriteLine($"Agregado cliente1 {cliente1.Nombre}");
             }
-            else { Console.WriteLine("No gregado"); }
+            else { Console.WriteLine($"No gregado {cliente1.Nombre}"); }
             if(negocio1 + cliente2)
             {
-                Console.WriteLine("Agregado cliente2");
-            }else { Console.WriteLine("No gregado"); }
+                Console.WriteLine($"Agregado cliente2 {cliente2.Nombre}");
+            }else { Console.WriteLine($"No gregado {cliente2.Nombre}"); }
 
             if (negocio1 + cliente3)
             {
-                Console.WriteLine("Agregado cliente3");
+                Console.WriteLine($"Agregado cliente3 {cliente3.Nombre}");
             }
-            else { Console.WriteLine("No gregado"); }
+            else { Console.WriteLine($"No gregado {cliente3.Nombre}"); }
 
             if (negocio1 + cliente4)
             {
-                Console.WriteLine("Agregado cliente4");
+                Console.WriteLine($"Agregado cliente4 {cliente4.Nombre}");
             }
-            else { Console.WriteLine("No gregado"); }
+            else { Console.WriteLine($"No gregado {cliente4.Nombre}"); }
 
             if (negocio1 + cliente5)
             {
-                Console.WriteLine("Agregado cliente5");
+                Console.WriteLine($"Agregado cliente5 {cliente5.Nombre}");
             }
-            else { Console.WriteLine("No gregado"); }
+            else { Console.WriteLine($"No gregado {cliente5.Nombre}"); }
 
             Console.ReadLine();
 

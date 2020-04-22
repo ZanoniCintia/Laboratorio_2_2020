@@ -7,3 +7,12 @@ C:\Users\Dell-7480T\source\repos\Entidades\Ejercicio_31\obj\Debug\Ejercicio_31.c
 C:\Users\Dell-7480T\source\repos\Entidades\Ejercicio_31\obj\Debug\Ejercicio_31.csproj.CopyComplete
 C:\Users\Dell-7480T\source\repos\Entidades\Ejercicio_31\obj\Debug\Ejercicio_31.exe
 C:\Users\Dell-7480T\source\repos\Entidades\Ejercicio_31\obj\Debug\Ejercicio_31.pdb
+C:\cintia\Laboratorio_2_2020\Ejercicio_31\Ejercicio_31\bin\Debug\Ejercicio_31.exe.config
+C:\cintia\Laboratorio_2_2020\Ejercicio_31\Ejercicio_31\bin\Debug\Ejercicio_31.exe
+C:\cintia\Laboratorio_2_2020\Ejercicio_31\Ejercicio_31\bin\Debug\Ejercicio_31.pdb
+C:\cintia\Laboratorio_2_2020\Ejercicio_31\Ejercicio_31\bin\Debug\Entidades.dll
+C:\cintia\Laboratorio_2_2020\Ejercicio_31\Ejercicio_31\bin\Debug\Entidades.pdb
+C:\cintia\Laboratorio_2_2020\Ejercicio_31\Ejercicio_31\obj\Debug\Ejercicio_31.csprojAssemblyReference.cache
+C:\cintia\Laboratorio_2_2020\Ejercicio_31\Ejercicio_31\obj\Debug\Ejercicio_31.csproj.CopyComplete
+C:\cintia\Laboratorio_2_2020\Ejercicio_31\Ejercicio_31\obj\Debug\Ejercicio_31.exe
+C:\cintia\Laboratorio_2_2020\Ejercicio_31\Ejercicio_31\obj\Debug\Ejercicio_31.pdb
