@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentraliraHerencia", "Entidades\CentraliraHerencia.csproj", "{5D23CA7C-0FAB-4F75-ADFC-BC8E1C18DE4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Centralita", "Centralita\Centralita.csproj", "{DD57263A-841F-461E-A6CA-709E28DBB38C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D23CA7C-0FAB-4F75-ADFC-BC8E1C18DE4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D23CA7C-0FAB-4F75-ADFC-BC8E1C18DE4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D23CA7C-0FAB-4F75-ADFC-BC8E1C18DE4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D23CA7C-0FAB-4F75-ADFC-BC8E1C18DE4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD57263A-841F-461E-A6CA-709E28DBB38C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD57263A-841F-461E-A6CA-709E28DBB38C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD57263A-841F-461E-A6CA-709E28DBB38C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD57263A-841F-461E-A6CA-709E28DBB38C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {182513A3-19D6-45D9-9E20-7493CD964ED7}
+	EndGlobalSection
+EndGlobal
