@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentraliraHerencia", "Entidades\CentraliraHerencia.csproj", "{5D23CA7C-0FAB-4F75-ADFC-BC8E1C18DE4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Centralita", "Centralita\Centralita.csproj", "{DD57263A-841F-461E-A6CA-709E28DBB38C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Centralita\Test.csproj", "{DD57263A-841F-461E-A6CA-709E28DBB38C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

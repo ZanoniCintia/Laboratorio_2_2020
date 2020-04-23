@@ -1,0 +1,9 @@
+C:\cintia\Laboratorio_2_2020\Centralita_37\Centralita\bin\Debug\Centralita.exe.config
+C:\cintia\Laboratorio_2_2020\Centralita_37\Centralita\bin\Debug\Centralita.exe
+C:\cintia\Laboratorio_2_2020\Centralita_37\Centralita\bin\Debug\Centralita.pdb
+C:\cintia\Laboratorio_2_2020\Centralita_37\Centralita\bin\Debug\Entidades.dll
+C:\cintia\Laboratorio_2_2020\Centralita_37\Centralita\bin\Debug\Entidades.pdb
+C:\cintia\Laboratorio_2_2020\Centralita_37\Centralita\obj\Debug\Test.csprojAssemblyReference.cache
+C:\cintia\Laboratorio_2_2020\Centralita_37\Centralita\obj\Debug\Test.csproj.CopyComplete
+C:\cintia\Laboratorio_2_2020\Centralita_37\Centralita\obj\Debug\Centralita.exe
+C:\cintia\Laboratorio_2_2020\Centralita_37\Centralita\obj\Debug\Centralita.pdb

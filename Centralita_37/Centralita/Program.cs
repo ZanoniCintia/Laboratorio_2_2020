@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using CentralitaHerencia;
 
-namespace CentralitaHerencia
+namespace Test
 {
     class Program
     {
