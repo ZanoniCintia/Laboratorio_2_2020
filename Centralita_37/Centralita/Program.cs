@@ -11,30 +11,25 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            //mi central
-            Centralita c = new Centralita("Cintia center");
-
-            //mis 4 llamadas
-            Local llamada1 = new Local(30,"Varela","Avellaneda",2.65f);
-            Provincial llamada2 = new Provincial(21,"Cordoba","BsAs",Provincial.Franja.Franja_1);
-            Local llamada3 = new Local(45, "Lanus", "caba", 1.99f);
-            Provincial llamada4 = new Provincial(Provincial.Franja.Franja_3, llamada2);
-
-            //las llamadas se iran registrando en la centralita
-            //la centralita mostrara por pantalla todas las llamadas segun las vaya registrando
-            c.Llamadas.Add(llamada1);
+            // Mi central
+            Centralita c = new Centralita("Fede Center");
+            // Mis 4 llamadas
+            Local l1 = new Local("Bernal", 30, "Rosario", 2.65f);
+            Provincial l2 = new Provincial(Provincial.Franja.Franja_1, "Morón", 21, "Bernal");
+            Local l3 = new Local("Lanús", 45, "San Rafael", 1.99f);
+            Provincial l4 = new Provincial(Provincial.Franja.Franja_3, l2);
+            // Las llamadas se irán registrando en la Centralita.
+            // La centralita mostrará por pantalla todas las llamadas según las vaya registrando.
+            c.Llamadas.Add(l1);
+            Console.WriteLine(c.Mostrar());
+            c.Llamadas.Add(l2);
+            Console.WriteLine(c.Mostrar());
+            c.Llamadas.Add(l3);
+            Console.WriteLine(c.Mostrar());
+            c.Llamadas.Add(l4);
             Console.WriteLine(c.Mostrar());
 
-            c.Llamadas.Add(llamada2);
-            Console.WriteLine(c.Mostrar());
-
-            c.Llamadas.Add(llamada3);
-            Console.WriteLine(c.Mostrar());
-
-            c.Llamadas.Add(llamada4);
-            Console.WriteLine(c.Mostrar());
-
-            Console.WriteLine("******En orden**********");
+            Console.WriteLine("**********desde aca***********");
             c.OrdenarLlamadas();
             Console.WriteLine(c.Mostrar());
             Console.ReadKey();

@@ -11,21 +11,32 @@ namespace CentralitaHerencia
     {
         protected float costo;
 
-        public Local( float duracion, string destino, string origen, float costo)
-            : this(new Llamada(duracion, destino, origen),costo)
+        /* public Local( float duracion, string destino, string origen, float costo)
+             : this(new Llamada(duracion, destino, origen),costo)
+         {
+
+         }
+
+         public Local(Llamada llamada, float costo) 
+         : base(llamada.Duracion,llamada.NroDestino,llamada.NroOrigen)
+         {
+             this.costo = costo;
+         }*/
+        public Local(Llamada llamada, float costo) 
+            : this(llamada.NroOrigen, llamada.Duracion, llamada.NroDestino, costo)
         {
 
         }
-
-        public Local(Llamada llamada, float costo) 
-        : base(llamada.Duracion,llamada.NroDestino,llamada.NroOrigen)
+        public Local(string origen, float duracion, string destino, float costo) 
+            : base(duracion, destino, origen)
         {
             this.costo = costo;
+
         }
 
         public float CostoLlamada
         {
-            get { return costo * duracion; }
+            get { return this.costo * this.duracion; }
            
         }
 

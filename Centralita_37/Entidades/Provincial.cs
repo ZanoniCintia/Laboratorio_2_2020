@@ -11,18 +11,28 @@ namespace CentralitaHerencia
     {
         protected Franja franjaHoraria;
 
-        public Provincial(float duracion,string destino,string origen,Franja franjaHoraria)
-            :this(franjaHoraria,new Llamada(duracion,destino,origen))
+        /* public Provincial(float duracion,string destino,string origen,Franja franjaHoraria)
+             :this(franjaHoraria,new Llamada(duracion,destino,origen))
+         {
+
+         }
+
+         public Provincial(Franja franjaHoraria,Llamada llamada)
+             :base(llamada.Duracion,llamada.NroDestino,llamada.NroOrigen)
+         {
+             this.franjaHoraria = franjaHoraria;
+         }*/
+        public Provincial(Franja miFranja, Llamada llamada) 
+            : this(miFranja, llamada.NroOrigen, llamada.Duracion, llamada.NroDestino)
         {
-            
+
+        }
+        public Provincial(Franja miFranja, string origen, float duracion, string destino) 
+            : base(duracion, destino, origen)
+        {
+
         }
 
-        public Provincial(Franja franjaHoraria,Llamada llamada)
-            :base(llamada.Duracion,llamada.NroDestino,llamada.NroOrigen)
-        {
-            this.franjaHoraria = franjaHoraria;
-        }
-        
 
         public float CostoLlamada
         {

@@ -68,7 +68,7 @@ namespace CentralitaHerencia
         }
 
         public string Mostrar()
-        {
+        {///ganancia revisar
             StringBuilder sb = new StringBuilder();
             string aux = "";
             sb.AppendLine("Razon social: "+razonSocial);
