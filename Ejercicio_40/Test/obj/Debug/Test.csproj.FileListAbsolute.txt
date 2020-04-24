@@ -1,0 +1,9 @@
+C:\Users\Dell-7480T\source\repos\CentralitaHerencia\Test\bin\Debug\Test.exe.config
+C:\Users\Dell-7480T\source\repos\CentralitaHerencia\Test\bin\Debug\Test.exe
+C:\Users\Dell-7480T\source\repos\CentralitaHerencia\Test\bin\Debug\Test.pdb
+C:\Users\Dell-7480T\source\repos\CentralitaHerencia\Test\bin\Debug\CentralitaHerencia.dll
+C:\Users\Dell-7480T\source\repos\CentralitaHerencia\Test\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Dell-7480T\source\repos\CentralitaHerencia\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Dell-7480T\source\repos\CentralitaHerencia\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Dell-7480T\source\repos\CentralitaHerencia\Test\obj\Debug\Test.exe
+C:\Users\Dell-7480T\source\repos\CentralitaHerencia\Test\obj\Debug\Test.pdb
