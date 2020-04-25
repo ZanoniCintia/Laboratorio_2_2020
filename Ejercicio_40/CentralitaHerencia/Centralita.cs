@@ -97,7 +97,7 @@ namespace CentralitaHerencia
 
         public static Centralita operator +(Centralita c,Llamada nuevaLlamada)
         {
-            Centralita retorno = null;
+            Centralita retorno = c;
             if (c != nuevaLlamada)
             {
                 c.AgregarLLamada(nuevaLlamada);
@@ -107,7 +107,7 @@ namespace CentralitaHerencia
                    
         }
 
-        public string Mostrar()
+        public override string ToString()
         {///ganancia revisar
             StringBuilder sb = new StringBuilder();
             string aux = "";

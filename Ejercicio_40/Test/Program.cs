@@ -29,6 +29,8 @@ namespace Test
             c += l5;
             c.OrdenarLlamadas();
             Console.WriteLine(c.ToString());
+
+            Console.ReadKey();
         }
     }
 }

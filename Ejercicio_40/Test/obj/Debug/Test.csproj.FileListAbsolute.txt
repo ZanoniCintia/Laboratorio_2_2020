@@ -7,3 +7,12 @@ C:\Users\Dell-7480T\source\repos\CentralitaHerencia\Test\obj\Debug\Test.csprojAs
 C:\Users\Dell-7480T\source\repos\CentralitaHerencia\Test\obj\Debug\Test.csproj.CopyComplete
 C:\Users\Dell-7480T\source\repos\CentralitaHerencia\Test\obj\Debug\Test.exe
 C:\Users\Dell-7480T\source\repos\CentralitaHerencia\Test\obj\Debug\Test.pdb
+C:\cintia\Laboratorio_2_2020\Ejercicio_40\Test\bin\Debug\Test.exe.config
+C:\cintia\Laboratorio_2_2020\Ejercicio_40\Test\bin\Debug\Test.exe
+C:\cintia\Laboratorio_2_2020\Ejercicio_40\Test\bin\Debug\Test.pdb
+C:\cintia\Laboratorio_2_2020\Ejercicio_40\Test\bin\Debug\CentralitaHerencia.dll
+C:\cintia\Laboratorio_2_2020\Ejercicio_40\Test\bin\Debug\CentralitaHerencia.pdb
+C:\cintia\Laboratorio_2_2020\Ejercicio_40\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\cintia\Laboratorio_2_2020\Ejercicio_40\Test\obj\Debug\Test.csproj.CopyComplete
+C:\cintia\Laboratorio_2_2020\Ejercicio_40\Test\obj\Debug\Test.exe
+C:\cintia\Laboratorio_2_2020\Ejercicio_40\Test\obj\Debug\Test.pdb
