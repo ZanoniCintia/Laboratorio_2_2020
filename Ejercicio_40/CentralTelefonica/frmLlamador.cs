@@ -178,7 +178,8 @@ namespace CentralTelefonica
             costo /= 100;
             
             
-            if (textBoxNroDestino.Text != "Nro destino" && textNroOrigen.Text != "Nro origen")
+            if ((textBoxNroDestino.Text != "Nro destino" && textNroOrigen.Text != "Nro origen")
+                && (textBoxNroDestino.Text !="" && textNroOrigen.Text != ""))
             {   
                 if(textBoxNroDestino.Text.IndexOf('#') == 0)
                 {
@@ -213,6 +214,7 @@ namespace CentralTelefonica
         {
             //carga
             auxFoco.Text = "Nro destino";
+            //textBoxNroDestino.Text = "Nro destino";
             comboBoxFranja.DataSource = Enum.GetValues(typeof(Provincial.Franja));
             
         }

@@ -202,7 +202,7 @@
             this.textBoxNroDestino.Name = "textBoxNroDestino";
             this.textBoxNroDestino.ReadOnly = true;
             this.textBoxNroDestino.Size = new System.Drawing.Size(803, 91);
-            this.textBoxNroDestino.TabIndex = 0;
+            this.textBoxNroDestino.TabIndex = 1;
             this.textBoxNroDestino.Text = "Nro destino";
             this.textBoxNroDestino.Enter += new System.EventHandler(this.textBoxNroDestino_Enter);
             // 
@@ -226,7 +226,7 @@
             this.btnLlamar.Location = new System.Drawing.Point(549, 219);
             this.btnLlamar.Name = "btnLlamar";
             this.btnLlamar.Size = new System.Drawing.Size(332, 80);
-            this.btnLlamar.TabIndex = 1;
+            this.btnLlamar.TabIndex = 0;
             this.btnLlamar.Text = "Llamar";
             this.btnLlamar.UseVisualStyleBackColor = true;
             this.btnLlamar.Click += new System.EventHandler(this.btnLlamar_Click);
