@@ -82,12 +82,13 @@ namespace CentralitaHerencia
         {
             return !(l1 == l2);
         }
-        public enum TipoLlamada
-        {
-            Local,
-            Provincial,
-            Todas
-        }
+       
 
+    }
+    public enum TipoLlamada
+    {
+        Local,
+        Provincial,
+        Todas
     }
 }

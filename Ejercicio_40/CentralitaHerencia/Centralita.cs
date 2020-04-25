@@ -24,41 +24,63 @@ namespace CentralitaHerencia
 
         public float GananciaPorLocal
         {
-            get { return CalcularGanancia(Llamada.TipoLlamada.Local); }
+            get { return CalcularGanancia(TipoLlamada.Local); }
 
         }
 
         public float GananciaPorProvincial
         {
-            get { return CalcularGanancia(Llamada.TipoLlamada.Provincial); }
+            get { return CalcularGanancia(TipoLlamada.Provincial); }
         }
 
         public float GananciaPorTotal
         {
-            get { return CalcularGanancia(Llamada.TipoLlamada.Todas); }
+            get { return CalcularGanancia(TipoLlamada.Todas); }
         }
         public List<Llamada> Llamadas
         {
             get { return this.listaDeLlamadas; }
         }
 
-        private float CalcularGanancia(Llamada.TipoLlamada tipo)
+        private float CalcularGanancia(TipoLlamada tipo)
         {
-            float auxGanancias = 0;
+            /*float auxGanancias = 0;
 
             foreach (Llamada llamada in listaDeLlamadas)
             {
-                if (tipo == Llamada.TipoLlamada.Local || tipo == Llamada.TipoLlamada.Todas && llamada is Local)
+                if (tipo == TipoLlamada.Local || tipo == TipoLlamada.Todas && llamada is Local)
                 {
                     auxGanancias = auxGanancias + ((Local)llamada).CostoLlamada;
 
                 }
-                else if (tipo == Llamada.TipoLlamada.Provincial || tipo == Llamada.TipoLlamada.Todas && llamada is Provincial)
+                else if (tipo == TipoLlamada.Provincial || tipo == TipoLlamada.Todas && llamada is Provincial)
                 {
                     auxGanancias = auxGanancias + ((Provincial)llamada).CostoLlamada;
                 }
             }
-            return auxGanancias;
+            return auxGanancias;*/
+             float totalLocal = 0;
+            float totalProvincial = 0;
+
+            foreach (Llamada llamada in this.Llamadas)
+            {
+                if (llamada is Local)
+                    totalLocal += ((Local)llamada).CostoLlamada;
+                if (llamada is Provincial)
+                    totalProvincial += ((Provincial)llamada).CostoLlamada;
+            }
+            
+            switch (tipo)
+            {
+                case TipoLlamada.Local:
+                    return totalLocal;
+                case TipoLlamada.Provincial:
+                    return totalProvincial;
+                case TipoLlamada.Todas:
+                    return totalLocal + totalProvincial;
+                default:
+                    return 0;
+            }
 
         }
 

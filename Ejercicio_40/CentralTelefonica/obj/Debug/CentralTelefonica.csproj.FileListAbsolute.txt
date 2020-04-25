@@ -11,3 +11,4 @@ C:\cintia\Laboratorio_2_2020\Ejercicio_40\CentralTelefonica\bin\Debug\Centralita
 C:\cintia\Laboratorio_2_2020\Ejercicio_40\CentralTelefonica\obj\Debug\CentralTelefonica.FormMenu.resources
 C:\cintia\Laboratorio_2_2020\Ejercicio_40\CentralTelefonica\obj\Debug\CentralTelefonica.frmLlamador.resources
 C:\cintia\Laboratorio_2_2020\Ejercicio_40\CentralTelefonica\obj\Debug\CentralTelefonica.csproj.CopyComplete
+C:\cintia\Laboratorio_2_2020\Ejercicio_40\CentralTelefonica\obj\Debug\CentralTelefonica.FormMostrar.resources
