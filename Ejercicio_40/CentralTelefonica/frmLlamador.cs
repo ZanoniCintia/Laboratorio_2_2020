@@ -181,15 +181,18 @@ namespace CentralTelefonica
             if ((textBoxNroDestino.Text != "Nro destino" && textNroOrigen.Text != "Nro origen")
                 && (textBoxNroDestino.Text !="" && textNroOrigen.Text != ""))
             {   
-                if(textBoxNroDestino.Text.IndexOf('#') == 0)
+                if(textBoxNroDestino.Text.IndexOf('#') == 0 )
                 {
-                    comboBoxFranja.Enabled = false;
-                    
-                    //lectura
-                    Provincial.Franja franja;
-                    Enum.TryParse(comboBoxFranja.SelectedValue.ToString(), out franja);
-                    Provincial llamadaProv = new Provincial(franja,textNroOrigen.Text,duracion,textBoxNroDestino.Text);
-                    centralita.Llamadas.Add(llamadaProv);
+                    if (comboBoxFranja.Text != "Franja horaria")
+                    {
+                        comboBoxFranja.Enabled = false;
+
+                        //lectura
+                        Provincial.Franja franja;
+                        Enum.TryParse(comboBoxFranja.SelectedValue.ToString(), out franja);
+                        Provincial llamadaProv = new Provincial(franja, textNroOrigen.Text, duracion, textBoxNroDestino.Text);
+                        centralita.Llamadas.Add(llamadaProv); 
+                    }else { MessageBox.Show("Seleccione una franja"); }
                 }else
                 {
                     //carga
