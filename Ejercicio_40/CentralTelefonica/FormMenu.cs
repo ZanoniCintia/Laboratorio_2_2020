@@ -23,21 +23,19 @@ namespace CentralTelefonica
         }
 
         private void button1_Click(object sender, EventArgs e)
-        {
-
+        {   
+            //generar llamada
+            frmLlamador = new FrmLlamador(centralita);
             //frmLlamador.Visible = true;
             frmLlamador.ShowDialog();
             
         }
 
-        private void FormMenu_Load(object sender, EventArgs e)
-        {
-            frmLlamador = new FrmLlamador(centralita);
-            
-        }
+       
 
         private void button5_Click(object sender, EventArgs e)
-        {
+        {   
+            //salir
             Application.Exit();
         }
 

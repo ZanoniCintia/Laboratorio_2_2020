@@ -53,7 +53,7 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "FormMostrar";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "FormMostrar";
             this.Load += new System.EventHandler(this.FormMostrar_Load);
             this.ResumeLayout(false);
