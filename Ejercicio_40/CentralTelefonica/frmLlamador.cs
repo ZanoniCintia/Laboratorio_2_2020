@@ -55,8 +55,11 @@ namespace CentralTelefonica
             {
                 textBoxNroDestino.Text += "1";
             }
-            else { textNroOrigen.Text += "1"; }
-           
+            if (auxFoco == textNroOrigen)
+            {
+                textBoxNroDestino.Text += "1";
+            }
+
         }
 
         private void btn2_Click(object sender, EventArgs e)
@@ -65,7 +68,10 @@ namespace CentralTelefonica
             {
                 textBoxNroDestino.Text += "2";
             }
-            else { textNroOrigen.Text += "2"; }
+            if (auxFoco == textNroOrigen)
+            {
+                textBoxNroDestino.Text += "2";
+            }
         }
 
         private void btn3_Click(object sender, EventArgs e)
@@ -74,7 +80,10 @@ namespace CentralTelefonica
             {
                 textBoxNroDestino.Text += "3";
             }
-            else { textNroOrigen.Text += "3"; }
+            if (auxFoco == textNroOrigen)
+            {
+                textBoxNroDestino.Text += "3";
+            }
         }
 
         private void btn4_Click(object sender, EventArgs e)
@@ -83,7 +92,10 @@ namespace CentralTelefonica
             {
                 textBoxNroDestino.Text += "4";
             }
-            else { textNroOrigen.Text += "4"; }
+            if (auxFoco == textNroOrigen)
+            {
+                textBoxNroDestino.Text += "4";
+            }
         }
 
         private void btn5_Click(object sender, EventArgs e)
@@ -92,7 +104,10 @@ namespace CentralTelefonica
             {
                 textBoxNroDestino.Text += "5";
             }
-            else { textNroOrigen.Text += "5"; }
+            if(auxFoco == textNroOrigen)
+            {
+                textBoxNroDestino.Text += "5";
+            }
         }
 
         private void btn6_Click(object sender, EventArgs e)
@@ -101,7 +116,10 @@ namespace CentralTelefonica
             {
                 textBoxNroDestino.Text += "6";
             }
-            else { textNroOrigen.Text += "6"; }
+            if (auxFoco == textNroOrigen)
+            {
+                textBoxNroDestino.Text += "6";
+            }
         }
 
         private void btn7_Click(object sender, EventArgs e)
@@ -110,7 +128,10 @@ namespace CentralTelefonica
             {
                 textBoxNroDestino.Text += "7";
             }
-            else { textNroOrigen.Text += "7"; }
+            if (auxFoco == textNroOrigen)
+            {
+                textBoxNroDestino.Text += "7";
+            }
         }
 
         private void btn8_Click(object sender, EventArgs e)
@@ -119,7 +140,10 @@ namespace CentralTelefonica
             {
                 textBoxNroDestino.Text += "8";
             }
-            else { textNroOrigen.Text += "8"; }
+            if (auxFoco == textNroOrigen)
+            {
+                textBoxNroDestino.Text += "8";
+            }
         }
 
         private void btn9_Click(object sender, EventArgs e)
@@ -128,7 +152,10 @@ namespace CentralTelefonica
             {
                 textBoxNroDestino.Text += "9";
             }
-            else { textNroOrigen.Text += "9"; }
+            if (auxFoco == textNroOrigen)
+            {
+                textBoxNroDestino.Text += "9";
+            }
         }
 
         private void btnAsterisco_Click(object sender, EventArgs e)
@@ -137,7 +164,10 @@ namespace CentralTelefonica
             {
                 textBoxNroDestino.Text += "*";
             }
-            else { textNroOrigen.Text += "*"; }
+            if (auxFoco == textNroOrigen)
+            {
+                textBoxNroDestino.Text += "*";
+            }
         }
 
         private void btn0_Click(object sender, EventArgs e)
@@ -146,7 +176,10 @@ namespace CentralTelefonica
             {
                 textBoxNroDestino.Text += "0";
             }
-            else { textNroOrigen.Text += "0"; }
+            if (auxFoco == textNroOrigen)
+            {
+                textBoxNroDestino.Text += "0";
+            }
         }
 
         private void btnNumeral_Click(object sender, EventArgs e)
@@ -160,9 +193,13 @@ namespace CentralTelefonica
 
                 }
             }
-            else { textNroOrigen.Text += "#"; }
+            if (auxFoco == textNroOrigen)
+            {
+                textBoxNroDestino.Text += "#";
+            }
 
-           
+
+
         }
 
 
