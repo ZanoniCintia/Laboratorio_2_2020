@@ -47,7 +47,7 @@ namespace Entidades
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine("AUTOMOVIL");
-            sb.AppendLine(this.ToString());
+            sb.AppendLine(this.Mostrar());
             sb.AppendLine($"TAMAÑO :{this.Tamanio}");
             sb.AppendLine($"TIPO :{this.tipo} ");
             sb.AppendLine("");

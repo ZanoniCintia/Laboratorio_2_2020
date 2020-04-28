@@ -23,7 +23,7 @@ namespace Entidades
         {
             this.vehiculos = new List<Vehiculo>();
         }
-        public Estacionamiento(int espacioDisponible)
+        public Estacionamiento(int espacioDisponible):this()
         {
             this.espacioDisponible = espacioDisponible;
         }
@@ -36,7 +36,7 @@ namespace Entidades
         /// <returns></returns>
         public override string ToString()
         {
-            return ToString();
+            return this.Mostrar(this,ETipo.Todos);
             
         }
         #endregion
@@ -61,13 +61,22 @@ namespace Entidades
                 switch (tipo)
                 {
                     case ETipo.Camioneta:
-                        sb.AppendLine(((Camioneta)vehiculoAux).ToString());
+                        if (vehiculoAux is Camioneta)
+                        {
+                            sb.AppendLine(vehiculoAux.Mostrar()); 
+                        }
                         break;
                     case ETipo.Moto:
-                        sb.AppendLine(((Moto)vehiculoAux).ToString());
+                        if (vehiculoAux is Moto)
+                        {
+                            sb.AppendLine(vehiculoAux.Mostrar());
+                        }
                         break;
                     case ETipo.Automovil:
-                        sb.AppendLine(((Automovil)vehiculoAux).ToString());
+                        if (vehiculoAux is Automovil)
+                        {
+                            sb.AppendLine(vehiculoAux.Mostrar());
+                        }
                         break;
                     default:
                         sb.AppendLine(vehiculoAux.Mostrar());
@@ -92,11 +101,16 @@ namespace Entidades
             {
                 foreach (Vehiculo vehiculoAux in c.vehiculos)
                 {
-                    if (vehiculoAux != p)
+                    if (vehiculoAux == p)
                     {
-                        c.vehiculos.Add(p);
+                        return c;
                     }
-                    // return c;
+                     
+                }
+
+                if(c.vehiculos.Count < c.espacioDisponible)
+                {
+                    c.vehiculos.Add(p);
                 }
             }
             

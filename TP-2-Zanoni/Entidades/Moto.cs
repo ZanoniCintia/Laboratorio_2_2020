@@ -30,7 +30,7 @@ namespace Entidades
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine("MOTO");
-            sb.AppendLine(base.ToString());
+            sb.AppendLine(base.Mostrar());
             sb.AppendLine($"TAMAÑO : {this.Tamanio}");
             sb.AppendLine("");
             sb.AppendLine("---------------------");
