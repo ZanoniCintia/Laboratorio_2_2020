@@ -20,7 +20,7 @@ namespace Entidades
             this.tipo = tipo;
             if (cantSatelites >0)
             {
-                List<Astro> satelites = new List<Astro>();
+                satelites = new List<Astro>();
             }
             
         }
@@ -49,11 +49,13 @@ namespace Entidades
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine(base.Mostar());
+            sb.AppendLine($"Cantidad de satelites :{this.cantSatelites}");
+            sb.AppendLine($"Es de tipo: {this.tipo}");
             if(!(satelites is null))
             {
                 foreach (Satelite auxSatelites in satelites)
                 {
-                    sb.AppendLine(Satelite.ToString());
+                    sb.AppendLine(auxSatelites.ToString());
                 }
             }
            
@@ -91,11 +93,11 @@ namespace Entidades
         public static bool operator +(Planeta planeta,Astro astro)
         {
             bool retorno = false;
-            if(!(astro is null) )
+            if(!(astro is null) && !(planeta is null))
             {   
-                if(astro is Satelite && !(planeta is null) && planeta.satelites.Count < planeta.cantSatelites)
+                if(astro is Satelite && planeta.Satelite.Count < planeta.cantSatelites)
                 {
-                    planeta.satelites.Add(astro);
+                    planeta.Satelite.Add(astro);
                     retorno = true;
                 }
  

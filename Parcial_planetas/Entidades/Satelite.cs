@@ -25,7 +25,9 @@ namespace Entidades
 
 		public override string ToString()
 		{
-			return base.Mostar();
+			StringBuilder sb = new StringBuilder();
+			sb.AppendLine(base.Mostar());
+			return sb.ToString();
 		}
 
 

@@ -1,0 +1,14 @@
+C:\cantina\20191010-PrimerParcial-alumno\FormCantina\bin\Debug\FormCantina.exe.config
+C:\cantina\20191010-PrimerParcial-alumno\FormCantina\bin\Debug\FormCantina.exe
+C:\cantina\20191010-PrimerParcial-alumno\FormCantina\bin\Debug\FormCantina.pdb
+C:\cantina\20191010-PrimerParcial-alumno\FormCantina\bin\Debug\Entidades.dll
+C:\cantina\20191010-PrimerParcial-alumno\FormCantina\bin\Debug\Entidades.pdb
+C:\cantina\20191010-PrimerParcial-alumno\FormCantina\obj\Debug\FormCantina.csprojAssemblyReference.cache
+C:\cantina\20191010-PrimerParcial-alumno\FormCantina\obj\Debug\FormCantina.Properties.Resources.resources
+C:\cantina\20191010-PrimerParcial-alumno\FormCantina\obj\Debug\FormCantina.csproj.GenerateResource.cache
+C:\cantina\20191010-PrimerParcial-alumno\FormCantina\obj\Debug\FormCantina.csproj.CopyComplete
+C:\cantina\20191010-PrimerParcial-alumno\FormCantina\obj\Debug\FormCantina.exe
+C:\cantina\20191010-PrimerParcial-alumno\FormCantina\obj\Debug\FormCantina.pdb
+C:\cantina\20191010-PrimerParcial-alumno\FormCantina\bin\Debug\ControlesUsuario.dll
+C:\cantina\20191010-PrimerParcial-alumno\FormCantina\bin\Debug\ControlesUsuario.pdb
+C:\cantina\20191010-PrimerParcial-alumno\FormCantina\obj\Debug\FormCantina.FormCantina.resources

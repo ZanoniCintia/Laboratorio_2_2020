@@ -1,0 +1,5 @@
+C:\cantina\20191010-PrimerParcial-alumno\Entidades\bin\Debug\Entidades.dll
+C:\cantina\20191010-PrimerParcial-alumno\Entidades\bin\Debug\Entidades.pdb
+C:\cantina\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\cantina\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.dll
+C:\cantina\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.pdb

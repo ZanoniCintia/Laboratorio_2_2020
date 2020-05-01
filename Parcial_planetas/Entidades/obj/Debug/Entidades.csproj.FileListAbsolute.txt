@@ -1,1 +1,6 @@
 C:\cintia\Laboratorio_2_2020\Zanoni-2°c\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Nueva carpeta\Laboratorio_2_2020\Parcial_planetas\Entidades\bin\Debug\Entidades.dll
+C:\Nueva carpeta\Laboratorio_2_2020\Parcial_planetas\Entidades\bin\Debug\Entidades.pdb
+C:\Nueva carpeta\Laboratorio_2_2020\Parcial_planetas\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Nueva carpeta\Laboratorio_2_2020\Parcial_planetas\Entidades\obj\Debug\Entidades.dll
+C:\Nueva carpeta\Laboratorio_2_2020\Parcial_planetas\Entidades\obj\Debug\Entidades.pdb

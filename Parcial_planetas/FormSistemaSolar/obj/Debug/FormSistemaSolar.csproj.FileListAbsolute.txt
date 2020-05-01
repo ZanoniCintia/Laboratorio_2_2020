@@ -1,0 +1,12 @@
+C:\Nueva carpeta\Laboratorio_2_2020\Parcial_planetas\FormSistemaSolar\bin\Debug\FormSistemaSolar.exe.config
+C:\Nueva carpeta\Laboratorio_2_2020\Parcial_planetas\FormSistemaSolar\bin\Debug\FormSistemaSolar.exe
+C:\Nueva carpeta\Laboratorio_2_2020\Parcial_planetas\FormSistemaSolar\bin\Debug\FormSistemaSolar.pdb
+C:\Nueva carpeta\Laboratorio_2_2020\Parcial_planetas\FormSistemaSolar\bin\Debug\Entidades.dll
+C:\Nueva carpeta\Laboratorio_2_2020\Parcial_planetas\FormSistemaSolar\bin\Debug\Entidades.pdb
+C:\Nueva carpeta\Laboratorio_2_2020\Parcial_planetas\FormSistemaSolar\obj\Debug\FormSistemaSolar.csprojAssemblyReference.cache
+C:\Nueva carpeta\Laboratorio_2_2020\Parcial_planetas\FormSistemaSolar\obj\Debug\FormSistemaSolar.Form1.resources
+C:\Nueva carpeta\Laboratorio_2_2020\Parcial_planetas\FormSistemaSolar\obj\Debug\FormSistemaSolar.Properties.Resources.resources
+C:\Nueva carpeta\Laboratorio_2_2020\Parcial_planetas\FormSistemaSolar\obj\Debug\FormSistemaSolar.csproj.GenerateResource.cache
+C:\Nueva carpeta\Laboratorio_2_2020\Parcial_planetas\FormSistemaSolar\obj\Debug\FormSistemaSolar.csproj.CopyComplete
+C:\Nueva carpeta\Laboratorio_2_2020\Parcial_planetas\FormSistemaSolar\obj\Debug\FormSistemaSolar.exe
+C:\Nueva carpeta\Laboratorio_2_2020\Parcial_planetas\FormSistemaSolar\obj\Debug\FormSistemaSolar.pdb
