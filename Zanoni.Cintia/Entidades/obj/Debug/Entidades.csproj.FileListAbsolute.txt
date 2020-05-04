@@ -3,3 +3,8 @@ C:\Users\Dell-7480T\source\repos\Zanoni.Cintia\Entidades\bin\Debug\Entidades.pdb
 C:\Users\Dell-7480T\source\repos\Zanoni.Cintia\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
 C:\Users\Dell-7480T\source\repos\Zanoni.Cintia\Entidades\obj\Debug\Entidades.dll
 C:\Users\Dell-7480T\source\repos\Zanoni.Cintia\Entidades\obj\Debug\Entidades.pdb
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia\Entidades\bin\Debug\Entidades.dll
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia\Entidades\bin\Debug\Entidades.pdb
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia\Entidades\obj\Debug\Entidades.dll
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia\Entidades\obj\Debug\Entidades.pdb

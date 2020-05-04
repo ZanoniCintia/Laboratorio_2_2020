@@ -67,7 +67,7 @@ namespace Entidades
             bool retorno = false;
             foreach (Jugador auxJugador in e.jugadores)
             {
-                if (auxJugador != j)
+                if (auxJugador == j)
                 {
                     retorno = true;
                 }

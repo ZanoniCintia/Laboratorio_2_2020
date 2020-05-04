@@ -7,3 +7,12 @@ C:\Users\Dell-7480T\source\repos\Zanoni.Cintia\VistaConsola\obj\Debug\VistaConso
 C:\Users\Dell-7480T\source\repos\Zanoni.Cintia\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
 C:\Users\Dell-7480T\source\repos\Zanoni.Cintia\VistaConsola\obj\Debug\VistaConsola.exe
 C:\Users\Dell-7480T\source\repos\Zanoni.Cintia\VistaConsola\obj\Debug\VistaConsola.pdb
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia\VistaConsola\bin\Debug\Entidades.dll
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia\VistaConsola\bin\Debug\Entidades.pdb
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia\VistaConsola\obj\Debug\VistaConsola.pdb
