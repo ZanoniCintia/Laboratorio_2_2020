@@ -1,0 +1,5 @@
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\Entidades\bin\Debug\Entidades.dll
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\Entidades\bin\Debug\Entidades.pdb
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\Entidades\obj\Debug\Entidades.dll
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\Entidades\obj\Debug\Entidades.pdb
