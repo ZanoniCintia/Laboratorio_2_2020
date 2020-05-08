@@ -3,3 +3,8 @@ C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\Entidades\bin\Debug\Entidades.dll
 C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\Entidades\bin\Debug\Entidades.pdb
 C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\Entidades\obj\Debug\Entidades.dll
 C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\Entidades\obj\Debug\Entidades.pdb
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia.2C.primerparcial\Entidades\bin\Debug\Entidades.dll
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia.2C.primerparcial\Entidades\bin\Debug\Entidades.pdb
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia.2C.primerparcial\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia.2C.primerparcial\Entidades\obj\Debug\Entidades.dll
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia.2C.primerparcial\Entidades\obj\Debug\Entidades.pdb

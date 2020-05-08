@@ -43,12 +43,12 @@ namespace Entidades
         /// metodo datos retorna un string con los datos de la clase
         /// </summary>
         /// <returns></returns>
-        public string Datos()
+        public virtual string Datos()
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine($"{this.nombre} come {this.KilosAlimento}kg");
-            sb.AppendFormat($"Consume Balanceado Si/No {ComeBalanceado}");
-            sb.AppendFormat($"Come pasto si/ no {ComePasto}");
+            sb.AppendLine($"Consume Balanceado Si/No {ComeBalanceado}");
+            sb.AppendLine($"Come pasto si/ no {ComePasto}");
             return sb.ToString();
         }
     }

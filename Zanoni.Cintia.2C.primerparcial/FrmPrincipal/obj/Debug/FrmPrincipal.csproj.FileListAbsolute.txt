@@ -10,3 +10,15 @@ C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\FrmPrincipal\obj\Debug\FrmPrincipal
 C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.CopyComplete
 C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\FrmPrincipal\obj\Debug\FrmPrincipal.exe
 C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\FrmPrincipal\obj\Debug\FrmPrincipal.pdb
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\bin\Debug\FrmPrincipal.exe.config
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\bin\Debug\FrmPrincipal.exe
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\bin\Debug\FrmPrincipal.pdb
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\bin\Debug\Entidades.dll
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\bin\Debug\Entidades.pdb
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.csprojAssemblyReference.cache
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.FrmPrincipal.resources
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.Properties.Resources.resources
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.GenerateResource.cache
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.CopyComplete
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.exe
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.pdb

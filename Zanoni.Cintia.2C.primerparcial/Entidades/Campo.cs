@@ -43,7 +43,7 @@ namespace Entidades
         {
             foreach (Animal auxAnimal in animales)
             {
-               this.alimentoDisponible= AlimentoComprometido(auxAnimal);
+               this.alimentoDisponible -= AlimentoComprometido(auxAnimal);
             }
             return this.alimentoDisponible;
         }
@@ -69,7 +69,7 @@ namespace Entidades
             sb.AppendLine($"Alimento comprometido {alimentoDisponible} de {AlimentoComprometido()}");
             foreach (Animal auxAnimal in animales)
             {
-                sb.AppendFormat(auxAnimal.Datos());
+                sb.AppendLine(auxAnimal.Datos());
             }
             return sb.ToString();
         }

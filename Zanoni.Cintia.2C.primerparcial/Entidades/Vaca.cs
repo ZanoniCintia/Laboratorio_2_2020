@@ -39,7 +39,7 @@ namespace Entidades
             this.clasificacion = clasificacion;
         }
 
-        public string Datos()
+        public override string Datos()
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine(base.Datos());
