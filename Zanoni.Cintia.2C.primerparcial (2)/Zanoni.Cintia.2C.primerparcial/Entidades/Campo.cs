@@ -63,7 +63,7 @@ namespace Entidades
            
             if(!(campo is null) && !(animal is null))
             {
-                if ( campo.AlimentoComprometido(animal) < campo.alimentoDisponible)
+                if ( campo.AlimentoComprometido(animal) <= campo.alimentoDisponible)
                 {
                     campo.animales.Add(animal);
                     retorno = true;

@@ -28,6 +28,7 @@ namespace FrmPrincipal
             pudo = this.campo + new Vaca("Rosalinda", 450, Vaca.Clasificacion.Lechera);
             pudo = this.campo + new Vaca("Lola", 325);
             pudo = this.campo + new Caballo("Secretariat", 175, true);
+            
             if (!(this.campo + new Caballo("BoJack", 1, false)))
             {
                 MessageBox.Show("ERROR!");
