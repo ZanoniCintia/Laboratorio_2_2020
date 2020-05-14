@@ -1,0 +1,25 @@
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\Entidades\bin\Debug\Entidades.dll
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\Entidades\bin\Debug\Entidades.pdb
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\Entidades\obj\Debug\Entidades.dll
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\Entidades\obj\Debug\Entidades.pdb
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C.primerparcial\Entidades\bin\Debug\Entidades.dll
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C.primerparcial\Entidades\bin\Debug\Entidades.pdb
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C.primerparcial\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C.primerparcial\Entidades\obj\Debug\Entidades.dll
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C.primerparcial\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Alex Presanto\Desktop\Zanoni.Cintia.2C.primerparcial\Entidades\bin\Debug\Entidades.dll
+C:\Users\Alex Presanto\Desktop\Zanoni.Cintia.2C.primerparcial\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Alex Presanto\Desktop\Zanoni.Cintia.2C.primerparcial\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Alex Presanto\Desktop\Zanoni.Cintia.2C.primerparcial\Entidades\obj\Debug\Entidades.dll
+C:\Users\Alex Presanto\Desktop\Zanoni.Cintia.2C.primerparcial\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\Entidades\bin\Debug\Entidades.dll
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\Entidades\obj\Debug\Entidades.dll
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\Entidades\bin\Debug\Entidades.dll
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\Entidades\obj\Debug\Entidades.dll
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\Entidades\obj\Debug\Entidades.pdb

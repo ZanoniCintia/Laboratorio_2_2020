@@ -1,0 +1,60 @@
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\FrmPrincipal\bin\Debug\FrmPrincipal.exe.config
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\FrmPrincipal\bin\Debug\FrmPrincipal.exe
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\FrmPrincipal\bin\Debug\FrmPrincipal.pdb
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\FrmPrincipal\bin\Debug\Entidades.dll
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\FrmPrincipal\bin\Debug\Entidades.pdb
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\FrmPrincipal\obj\Debug\FrmPrincipal.csprojAssemblyReference.cache
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\FrmPrincipal\obj\Debug\FrmPrincipal.FrmPrincipal.resources
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\FrmPrincipal\obj\Debug\FrmPrincipal.Properties.Resources.resources
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.GenerateResource.cache
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.CopyComplete
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\FrmPrincipal\obj\Debug\FrmPrincipal.exe
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C\FrmPrincipal\obj\Debug\FrmPrincipal.pdb
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\bin\Debug\FrmPrincipal.exe.config
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\bin\Debug\FrmPrincipal.exe
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\bin\Debug\FrmPrincipal.pdb
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\bin\Debug\Entidades.dll
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\bin\Debug\Entidades.pdb
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.csprojAssemblyReference.cache
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.FrmPrincipal.resources
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.Properties.Resources.resources
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.GenerateResource.cache
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.CopyComplete
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.exe
+C:\Parcial-Zanoni.Cintia.2C\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.pdb
+C:\Users\Alex Presanto\Desktop\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\bin\Debug\FrmPrincipal.exe.config
+C:\Users\Alex Presanto\Desktop\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\bin\Debug\FrmPrincipal.exe
+C:\Users\Alex Presanto\Desktop\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\bin\Debug\FrmPrincipal.pdb
+C:\Users\Alex Presanto\Desktop\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\bin\Debug\Entidades.dll
+C:\Users\Alex Presanto\Desktop\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\bin\Debug\Entidades.pdb
+C:\Users\Alex Presanto\Desktop\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.csprojAssemblyReference.cache
+C:\Users\Alex Presanto\Desktop\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.FrmPrincipal.resources
+C:\Users\Alex Presanto\Desktop\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.Properties.Resources.resources
+C:\Users\Alex Presanto\Desktop\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.GenerateResource.cache
+C:\Users\Alex Presanto\Desktop\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.CopyComplete
+C:\Users\Alex Presanto\Desktop\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.exe
+C:\Users\Alex Presanto\Desktop\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.pdb
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\bin\Debug\FrmPrincipal.exe.config
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\bin\Debug\FrmPrincipal.exe
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\bin\Debug\FrmPrincipal.pdb
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\bin\Debug\Entidades.dll
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\bin\Debug\Entidades.pdb
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.csprojAssemblyReference.cache
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.FrmPrincipal.resources
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.Properties.Resources.resources
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.GenerateResource.cache
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.CopyComplete
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.exe
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.pdb
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\bin\Debug\FrmPrincipal.exe.config
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\bin\Debug\FrmPrincipal.exe
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\bin\Debug\FrmPrincipal.pdb
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\bin\Debug\Entidades.dll
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\bin\Debug\Entidades.pdb
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.csprojAssemblyReference.cache
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.FrmPrincipal.resources
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.Properties.Resources.resources
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.GenerateResource.cache
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.CopyComplete
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.exe
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\FrmPrincipal\obj\Debug\FrmPrincipal.pdb
