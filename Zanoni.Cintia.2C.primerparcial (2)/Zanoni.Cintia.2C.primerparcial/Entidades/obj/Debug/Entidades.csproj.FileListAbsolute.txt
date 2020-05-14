@@ -23,3 +23,8 @@ C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.
 C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
 C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\Entidades\obj\Debug\Entidades.dll
 C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\Entidades\obj\Debug\Entidades.pdb
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\Entidades\bin\Debug\Entidades.dll
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\Entidades\bin\Debug\Entidades.pdb
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\Entidades\obj\Debug\Entidades.dll
+C:\Nueva carpeta\Laboratorio_2_2020\Zanoni.Cintia.2C.primerparcial (2)\Zanoni.Cintia.2C.primerparcial\Entidades\obj\Debug\Entidades.pdb

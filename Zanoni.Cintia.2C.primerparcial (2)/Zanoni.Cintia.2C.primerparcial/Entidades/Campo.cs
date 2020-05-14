@@ -36,11 +36,9 @@ namespace Entidades
 
         private int AlimentoComprometido(Animal animal)
         {
-           if (this.animales.Contains(animal))
-            {
-                return this.AlimentoComprometido() - animal.KilosAlimento;
-            }
-            return this.AlimentoComprometido();
+
+            return animal.KilosAlimento + AlimentoComprometido();
+            
         }
 
         private int AlimentoComprometido()
