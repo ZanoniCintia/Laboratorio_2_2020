@@ -53,11 +53,25 @@ namespace CentralTelefonica
         {
             if (auxFoco == textBoxNroDestino)
             {
-                textBoxNroDestino.Text += "1";
+                if (textBoxNroDestino.Text.Contains("Nro Destino"))
+                {
+                    textBoxNroDestino.Text = "1";
+                }
+                else
+                {
+                    textBoxNroDestino.Text += "1";
+                }
             }
             if (auxFoco == textNroOrigen)
             {
-                textBoxNroDestino.Text += "1";
+                if (textNroOrigen.Text.Contains("Nro Origen"))
+                {
+                    textNroOrigen.Text = "1";
+                }
+                else
+                {
+                    textNroOrigen.Text += "1";
+                }
             }
 
         }
@@ -66,11 +80,25 @@ namespace CentralTelefonica
         {
             if (auxFoco == textBoxNroDestino)
             {
-                textBoxNroDestino.Text += "2";
+                if (textBoxNroDestino.Text.Contains("Nro Destino"))
+                {
+                    textBoxNroDestino.Text = "2";
+                }
+                else
+                {
+                    textBoxNroDestino.Text += "2";
+                }
             }
             if (auxFoco == textNroOrigen)
             {
-                textBoxNroDestino.Text += "2";
+                if (textNroOrigen.Text.Contains("Nro Origen"))
+                {
+                    textNroOrigen.Text = "2";
+                }
+                else
+                {
+                    textNroOrigen.Text += "2";
+                }
             }
         }
 
@@ -78,11 +106,25 @@ namespace CentralTelefonica
         {
             if (auxFoco == textBoxNroDestino)
             {
-                textBoxNroDestino.Text += "3";
+                if (textBoxNroDestino.Text.Contains("Nro Destino"))
+                {
+                    textBoxNroDestino.Text = "3";
+                }
+                else
+                {
+                    textBoxNroDestino.Text += "3";
+                }
             }
             if (auxFoco == textNroOrigen)
             {
-                textBoxNroDestino.Text += "3";
+                if (textNroOrigen.Text.Contains("Nro Origen"))
+                {
+                    textNroOrigen.Text = "3";
+                }
+                else
+                {
+                    textNroOrigen.Text += "3";
+                }
             }
         }
 
@@ -90,11 +132,25 @@ namespace CentralTelefonica
         {
             if (auxFoco == textBoxNroDestino)
             {
-                textBoxNroDestino.Text += "4";
+                if (textBoxNroDestino.Text.Contains("Nro Destino"))
+                {
+                    textBoxNroDestino.Text = "4";
+                }
+                else
+                {
+                    textBoxNroDestino.Text += "4";
+                }
             }
             if (auxFoco == textNroOrigen)
             {
-                textBoxNroDestino.Text += "4";
+                if (textNroOrigen.Text.Contains("Nro Origen"))
+                {
+                    textNroOrigen.Text = "4";
+                }
+                else
+                {
+                    textNroOrigen.Text += "4";
+                }
             }
         }
 
@@ -102,11 +158,25 @@ namespace CentralTelefonica
         {
             if (auxFoco == textBoxNroDestino)
             {
-                textBoxNroDestino.Text += "5";
+                if (textBoxNroDestino.Text.Contains("Nro Destino"))
+                {
+                    textBoxNroDestino.Text = "5";
+                }
+                else
+                {
+                    textBoxNroDestino.Text += "5";
+                }
             }
-            if(auxFoco == textNroOrigen)
+            if (auxFoco == textNroOrigen)
             {
-                textBoxNroDestino.Text += "5";
+                if (textNroOrigen.Text.Contains("Nro Origen"))
+                {
+                    textNroOrigen.Text = "5";
+                }
+                else
+                {
+                    textNroOrigen.Text += "5";
+                }
             }
         }
 
@@ -114,11 +184,25 @@ namespace CentralTelefonica
         {
             if (auxFoco == textBoxNroDestino)
             {
-                textBoxNroDestino.Text += "6";
+                if (textBoxNroDestino.Text.Contains("Nro Destino"))
+                {
+                    textBoxNroDestino.Text = "6";
+                }
+                else
+                {
+                    textBoxNroDestino.Text += "6";
+                }
             }
             if (auxFoco == textNroOrigen)
             {
-                textBoxNroDestino.Text += "6";
+                if (textNroOrigen.Text.Contains("Nro Origen"))
+                {
+                    textNroOrigen.Text = "6";
+                }
+                else
+                {
+                    textNroOrigen.Text += "6";
+                }
             }
         }
 
@@ -126,11 +210,25 @@ namespace CentralTelefonica
         {
             if (auxFoco == textBoxNroDestino)
             {
-                textBoxNroDestino.Text += "7";
+                if (textBoxNroDestino.Text.Contains("Nro Destino"))
+                {
+                    textBoxNroDestino.Text = "7";
+                }
+                else
+                {
+                    textBoxNroDestino.Text += "7";
+                }
             }
             if (auxFoco == textNroOrigen)
             {
-                textBoxNroDestino.Text += "7";
+                if (textNroOrigen.Text.Contains("Nro Origen"))
+                {
+                    textNroOrigen.Text = "7";
+                }
+                else
+                {
+                    textNroOrigen.Text += "7";
+                }
             }
         }
 
@@ -138,11 +236,25 @@ namespace CentralTelefonica
         {
             if (auxFoco == textBoxNroDestino)
             {
-                textBoxNroDestino.Text += "8";
+                if (textBoxNroDestino.Text.Contains("Nro Destino"))
+                {
+                    textBoxNroDestino.Text = "8";
+                }
+                else
+                {
+                    textBoxNroDestino.Text += "8";
+                }
             }
             if (auxFoco == textNroOrigen)
             {
-                textBoxNroDestino.Text += "8";
+                if (textNroOrigen.Text.Contains("Nro Origen"))
+                {
+                    textNroOrigen.Text = "8";
+                }
+                else
+                {
+                    textNroOrigen.Text += "8";
+                }
             }
         }
 
@@ -150,11 +262,25 @@ namespace CentralTelefonica
         {
             if (auxFoco == textBoxNroDestino)
             {
-                textBoxNroDestino.Text += "9";
+                if (textBoxNroDestino.Text.Contains("Nro Destino"))
+                {
+                    textBoxNroDestino.Text = "9";
+                }
+                else
+                {
+                    textBoxNroDestino.Text += "9";
+                }
             }
             if (auxFoco == textNroOrigen)
             {
-                textBoxNroDestino.Text += "9";
+                if (textNroOrigen.Text.Contains("Nro Origen"))
+                {
+                    textNroOrigen.Text = "9";
+                }
+                else
+                {
+                    textNroOrigen.Text += "9";
+                }
             }
         }
 
@@ -162,11 +288,31 @@ namespace CentralTelefonica
         {
             if (auxFoco == textBoxNroDestino)
             {
-                textBoxNroDestino.Text += "*";
+                if (textBoxNroDestino.Text.Contains("Nro Destino") ||
+                    textBoxNroDestino.Text == string.Empty)
+                {
+                    textBoxNroDestino.Text = "*";
+                }
+                else
+                {
+
+                    MessageBox.Show
+                    ("Solo puede agregar '*' al principio de la llamada");
+                }
             }
             if (auxFoco == textNroOrigen)
             {
-                textBoxNroDestino.Text += "*";
+                if (textNroOrigen.Text.Contains("Nro Origen") ||
+                    textNroOrigen.Text == string.Empty)
+                {
+                    textNroOrigen.Text = "*";
+                }
+                else
+                {
+
+                    MessageBox.Show
+                    ("Solo puede agregar '*' al principio de la llamada");
+                }
             }
         }
 
@@ -174,11 +320,25 @@ namespace CentralTelefonica
         {
             if (auxFoco == textBoxNroDestino)
             {
-                textBoxNroDestino.Text += "0";
+                if (textBoxNroDestino.Text.Contains("Nro Destino"))
+                {
+                    textBoxNroDestino.Text = "0";
+                }
+                else
+                {
+                    textBoxNroDestino.Text += "0";
+                }
             }
             if (auxFoco == textNroOrigen)
             {
-                textBoxNroDestino.Text += "0";
+                if (textNroOrigen.Text.Contains("Nro Origen"))
+                {
+                    textNroOrigen.Text = "0";
+                }
+                else
+                {
+                    textNroOrigen.Text += "0";
+                }
             }
         }
 
@@ -186,19 +346,40 @@ namespace CentralTelefonica
         {
             if (auxFoco == textBoxNroDestino)
             {
-                textBoxNroDestino.Text += "#";
-                if (textBoxNroDestino.Text.IndexOf('#') == 0)
+                if (textBoxNroDestino.Text.Contains("Nro Destino") ||
+                    textBoxNroDestino.Text == string.Empty)
                 {
-                    comboBoxFranja.Enabled = true;
+                    textBoxNroDestino.Text = "#";
+                    if (textBoxNroDestino.Text.IndexOf('#') == 0)
+                    {
+                        comboBoxFranja.Enabled = true;
+                    }
+                    else
+                    {
+                        comboBoxFranja.Enabled = false;
+                    }
+                }
+                else
+                {
 
+                    MessageBox.Show
+                    ("Solo puede agregar '#' al principio de la llamada");
                 }
             }
             if (auxFoco == textNroOrigen)
             {
-                textBoxNroDestino.Text += "#";
+                if (textNroOrigen.Text.Contains("Nro Origen") ||
+                    textBoxNroDestino.Text == string.Empty)
+                {
+                    textNroOrigen.Text = "#";
+                }
+                else
+                {
+
+                    MessageBox.Show
+                    ("Solo puede agregar '#' al principio de la llamada");
+                }
             }
-
-
 
         }
 
@@ -217,28 +398,42 @@ namespace CentralTelefonica
             
             if ((textBoxNroDestino.Text != "Nro destino" && textNroOrigen.Text != "Nro origen")
                 && (textBoxNroDestino.Text !="" && textNroOrigen.Text != ""))
-            {   
-                if(textBoxNroDestino.Text.IndexOf('#') == 0 )
+            {
+                try
                 {
-                    if (comboBoxFranja.Text != "Franja horaria")
+                    if (textBoxNroDestino.Text.IndexOf('#') == 0)
                     {
-                        comboBoxFranja.Enabled = false;
+                        if (comboBoxFranja.Text != "Franja horaria")
+                        {
+                            comboBoxFranja.Enabled = false;
 
-                        //lectura
-                        Provincial.Franja franja;
-                        Enum.TryParse(comboBoxFranja.SelectedValue.ToString(), out franja);
-                        Provincial llamadaProv = new Provincial(franja, textNroOrigen.Text, duracion, textBoxNroDestino.Text);
-                        centralita.Llamadas.Add(llamadaProv); 
-                    }else { MessageBox.Show("Seleccione una franja"); }
-                }else
-                {
-                    //carga
-                    Local llamadaLocal = new Local(textNroOrigen.Text, duracion,textBoxNroDestino.Text, costo);
-                    centralita.Llamadas.Add(llamadaLocal);
+                            //lectura
+                            Provincial.Franja franja;
+                            Enum.TryParse(comboBoxFranja.SelectedValue.ToString(), out franja);
+                            Provincial llamadaProv = new Provincial(franja, textNroOrigen.Text, duracion, textBoxNroDestino.Text);
+                            centralita += llamadaProv;
+                        }
+                        else
+                        {
+                            MessageBox.Show("Seleccione una franja");
+
+                        }
+                    }
+                    else
+                    {
+                        //carga
+                        Local llamadaLocal = new Local(textNroOrigen.Text, duracion, textBoxNroDestino.Text, costo);
+                        centralita += llamadaLocal;
+                    }
+
+
+                    MessageBox.Show("Llamada cargada exitosamente");
                 }
-
-
-                MessageBox.Show("Llamada cargada exitosamente");
+                catch (CentralitaException ex)
+                {
+                    MessageBox.Show(ex.Message);
+                    
+                }
 
             }
             else

@@ -8,3 +8,8 @@ C:\cintia\Laboratorio_2_2020\Ejercicio_40\CentralitaHerencia\bin\Debug\Centralit
 C:\cintia\Laboratorio_2_2020\Ejercicio_40\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojAssemblyReference.cache
 C:\cintia\Laboratorio_2_2020\Ejercicio_40\CentralitaHerencia\obj\Debug\CentralitaHerencia.dll
 C:\cintia\Laboratorio_2_2020\Ejercicio_40\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+C:\Nueva carpeta\Laboratorio_2_2020\Ejercicio_40\CentralitaHerencia\bin\Debug\CentralitaHerencia.dll
+C:\Nueva carpeta\Laboratorio_2_2020\Ejercicio_40\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+C:\Nueva carpeta\Laboratorio_2_2020\Ejercicio_40\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojAssemblyReference.cache
+C:\Nueva carpeta\Laboratorio_2_2020\Ejercicio_40\CentralitaHerencia\obj\Debug\CentralitaHerencia.dll
+C:\Nueva carpeta\Laboratorio_2_2020\Ejercicio_40\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
