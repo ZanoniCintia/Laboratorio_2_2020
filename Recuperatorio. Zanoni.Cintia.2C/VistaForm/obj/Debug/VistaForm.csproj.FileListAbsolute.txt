@@ -1,0 +1,124 @@
+C:\Users\alnil\Downloads\Ferreteria\Ferreteria\Zanoni.Cintia.2°C\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\alnil\Downloads\Ferreteria\Ferreteria\Zanoni.Cintia.2°C\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\alnil\Downloads\Ferreteria\Ferreteria\Zanoni.Cintia.2°C\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\alnil\Downloads\Ferreteria\Ferreteria\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+C:\Users\alnil\Downloads\Ferreteria\Ferreteria\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\alnil\Downloads\Ferreteria\Ferreteria\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\Users\alnil\Downloads\Ferreteria\Ferreteria\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+C:\Users\alnil\Downloads\Ferreteria\Ferreteria\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\alnil\Downloads\Ferreteria\Ferreteria\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.pdb
+C:\Users\alnil\Downloads\Ferreteria\Ferreteria\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmLogInFerreteria.resources
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2°C\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2°C\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2°C\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2°C\VistaForm\bin\Debug\Entidades.dll
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2°C\VistaForm\bin\Debug\Entidades.pdb
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmLogInFerreteria.resources
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmVistaAdministrador.resources
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.pdb
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmCargaDeProducto.resources
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmEliminarProducto.resources
+C:\Users\Dell-7480T\Downloads\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmListar.resources
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C\VistaForm\bin\Debug\Entidades.dll
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C\VistaForm\bin\Debug\Entidades.pdb
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmCargaDeProducto.resources
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmEliminarProducto.resources
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmListar.resources
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmLogInFerreteria.resources
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmVistaAdministrador.resources
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.pdb
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmVistaUsuario.resources
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmCarrito.resources
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C\VistaForm\bin\Debug\Entidades.dll
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C\VistaForm\bin\Debug\Entidades.pdb
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmCargaDeProducto.resources
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmCarrito.resources
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmEliminarProducto.resources
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmListar.resources
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmLogInFerreteria.resources
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmVistaAdministrador.resources
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmVistaUsuario.resources
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.pdb
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmCantidad.resources
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\bin\Debug\Entidades.dll
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\bin\Debug\Entidades.pdb
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmCantidad.resources
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmCargaDeProducto.resources
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmCarrito.resources
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmEliminarProducto.resources
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmListar.resources
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmLogInFerreteria.resources
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmVistaAdministrador.resources
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmVistaUsuario.resources
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.pdb
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\bin\Debug\Entidades.dll
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\bin\Debug\Entidades.pdb
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmCantidad.resources
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmCargaDeProducto.resources
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmCarrito.resources
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmEliminarProducto.resources
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmListar.resources
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmLogInFerreteria.resources
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmVistaAdministrador.resources
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmVistaUsuario.resources
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C (2)\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.pdb
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmCantidad.resources
+C:\Users\Dell-7480T\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmControlPedidosRealizadosAdministrador.resources
+C:\Users\IsmashiSan\Desktop\Zanoni.Cintia.2°C\VistaForm\obj\Debug\VistaForm.FrmControlPedidosRealizadosAdministrador.resources
+C:\Users\Dell-7480T\Desktop\Recu\Recu\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\Dell-7480T\Desktop\Recu\Recu\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\Dell-7480T\Desktop\Recu\Recu\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\Dell-7480T\Desktop\Recu\Recu\VistaForm\bin\Debug\Entidades.dll
+C:\Users\Dell-7480T\Desktop\Recu\Recu\VistaForm\bin\Debug\Entidades.pdb
+C:\Users\Dell-7480T\Desktop\Recu\Recu\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+C:\Users\Dell-7480T\Desktop\Recu\Recu\VistaForm\obj\Debug\VistaForm.FrmCantidad.resources
+C:\Users\Dell-7480T\Desktop\Recu\Recu\VistaForm\obj\Debug\VistaForm.FrmCargaDeProducto.resources
+C:\Users\Dell-7480T\Desktop\Recu\Recu\VistaForm\obj\Debug\VistaForm.FrmCarrito.resources
+C:\Users\Dell-7480T\Desktop\Recu\Recu\VistaForm\obj\Debug\VistaForm.FrmControlPedidosRealizadosAdministrador.resources
+C:\Users\Dell-7480T\Desktop\Recu\Recu\VistaForm\obj\Debug\VistaForm.FrmEliminarProducto.resources
+C:\Users\Dell-7480T\Desktop\Recu\Recu\VistaForm\obj\Debug\VistaForm.FrmListar.resources
+C:\Users\Dell-7480T\Desktop\Recu\Recu\VistaForm\obj\Debug\VistaForm.FrmLogInFerreteria.resources
+C:\Users\Dell-7480T\Desktop\Recu\Recu\VistaForm\obj\Debug\VistaForm.FrmVistaAdministrador.resources
+C:\Users\Dell-7480T\Desktop\Recu\Recu\VistaForm\obj\Debug\VistaForm.FrmVistaUsuario.resources
+C:\Users\Dell-7480T\Desktop\Recu\Recu\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\Dell-7480T\Desktop\Recu\Recu\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\Users\Dell-7480T\Desktop\Recu\Recu\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+C:\Users\Dell-7480T\Desktop\Recu\Recu\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\Dell-7480T\Desktop\Recu\Recu\VistaForm\obj\Debug\VistaForm.pdb
