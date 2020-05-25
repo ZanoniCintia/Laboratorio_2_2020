@@ -35,10 +35,18 @@ namespace Entidades
             this.nombreMetodo = metodo;
         }
 
-        public override string ToString()
+        public override string ToString()//preguntar no esta claro 
         {
+            
             StringBuilder sb = new StringBuilder();
-        //sin terminar
+            sb.AppendLine($"Excepcion en el metodo {this.NombreMetodo} de la clase {this.NombreClase}");
+            sb.AppendLine($"{base.Message}");
+            Exception ex = this.InnerException;
+            while (ex != null)
+            {
+                sb.AppendLine($"{ex}\t"); //este metodo me permite imprimir todas las InnerException 
+                ex = ex.InnerException;
+            }
 
             return sb.ToString();
         }

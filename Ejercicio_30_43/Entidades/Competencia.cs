@@ -87,25 +87,22 @@ namespace Entidades
             }
             return sb.ToString();
         }
-        public static bool operator ==(Competencia c,VehiculoDeCarrera v)
+        public static bool operator ==(Competencia c,VehiculoDeCarrera v)//no esta claro
         {
             bool retorno = false;
-            switch (c.Tipo)
+            if((c.Tipo == TipoCompetencia.F1 && v is MotoCross) || (c.Tipo == TipoCompetencia.MotoCross && v is AutoF1))
             {
-                case TipoCompetencia.F1:
-                    {
-                        if(v is AutoF1)
-                        retorno = true;
-                        break;
-                    }
-                case TipoCompetencia.MotoCross:
-                    {
-                        if (v is MotoCross)
-                            retorno = true;
-                        break;
-                    }
-
+                throw new CompetenciaNoDisponibleException("El vehiculo no corresponde a la competencia", "Competencia", "Operador ==");
             }
+            foreach (VehiculoDeCarrera auxvehiculo in c.competidores)
+            {
+                if(auxvehiculo == v)
+                {
+                    retorno = true;
+                    break;
+                }
+            }
+            
             return retorno;
         }
 
@@ -119,19 +116,25 @@ namespace Entidades
             
             bool retorno = false;
             Random aleatorio = new Random();
-            if (!(c is null) && !(v is null))
+            if (c.competidores.Count < c.CantidadCompetidores)
             {
-
-                if (c.competidores.Count < c.CantidadCompetidores
-                                 && c == v && !(c.Contiene(v)))
+                try 
                 {
-                    c.competidores.Add(v);
-                    v.EnCompetencia = true;
-                    v.VueltasRestantes = c.cantidadDeVueltas;
-                    v.CantidadCombustible = (short)aleatorio.Next(15, 100);
-                    retorno = true;
-
+                    if (c != v)
+                    {
+                        c.competidores.Add(v);
+                        v.EnCompetencia = true;
+                        v.VueltasRestantes = c.cantidadDeVueltas;
+                        v.CantidadCombustible = (short)aleatorio.Next(15, 100);
+                        retorno = true;
+                    }
                 }
+                catch(CompetenciaNoDisponibleException e)
+                {
+                    throw new CompetenciaNoDisponibleException("Competencia incorrecta", "Competencia", "Operador +",e);
+                }
+              
+
 
             }
             
@@ -179,19 +182,7 @@ namespace Entidades
             
         }
 
-        public bool Contiene(VehiculoDeCarrera vehiculo)
-        {
-            bool retorno = false;
-            foreach (VehiculoDeCarrera v in this.competidores)
-            {
-                if (v == vehiculo)
-                {
-                    retorno = true;
-                    break;
-                }
-            }
-            return retorno;
-        }
+      
 
         public enum TipoCompetencia
         {
