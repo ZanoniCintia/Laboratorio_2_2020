@@ -3,3 +3,8 @@ C:\Users\Dell-7480T\source\repos\Entidades\Entidades\bin\Debug\Entidades.pdb
 C:\Users\Dell-7480T\source\repos\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
 C:\Users\Dell-7480T\source\repos\Entidades\Entidades\obj\Debug\Entidades.dll
 C:\Users\Dell-7480T\source\repos\Entidades\Entidades\obj\Debug\Entidades.pdb
+C:\Nueva carpeta\Laboratorio_2_2020\Ejercicio_30\Entidades\bin\Debug\Entidades.dll
+C:\Nueva carpeta\Laboratorio_2_2020\Ejercicio_30\Entidades\bin\Debug\Entidades.pdb
+C:\Nueva carpeta\Laboratorio_2_2020\Ejercicio_30\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Nueva carpeta\Laboratorio_2_2020\Ejercicio_30\Entidades\obj\Debug\Entidades.dll
+C:\Nueva carpeta\Laboratorio_2_2020\Ejercicio_30\Entidades\obj\Debug\Entidades.pdb

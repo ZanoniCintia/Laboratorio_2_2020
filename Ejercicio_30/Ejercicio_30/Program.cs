@@ -11,14 +11,14 @@ namespace Ejercicio_30
     {
         static void Main(string[] args)
         {
-            Competencia competencia1 = new Competencia(3,14);
+            Competencia competencia1 = new Competencia(3,14,Competencia.TipoCompetencia.F1);
             
-            AutoF1 auto1 = new AutoF1("chevrolet",3);
-            AutoF1 auto2 = new AutoF1("fiat", 4);
-            AutoF1 auto3 = new AutoF1("Ford", 2);
-            AutoF1 auto4 = new AutoF1("Ford", 1);
-            AutoF1 auto5 = new AutoF1("Fiat", 5);
-            AutoF1 auto6 = new AutoF1("Fiat", 6);
+            VehiculoDeCarrera auto1 = new AutoF1(3,"chevrolet",7);
+            VehiculoDeCarrera auto2 = new AutoF1(4,"fiat",5);
+            VehiculoDeCarrera auto3 = new AutoF1(6,"Ford",8);
+            VehiculoDeCarrera moto1 = new MotoCross(8,"Vulcan", 1000);
+            VehiculoDeCarrera moto2 = new MotoCross(5,"Mt07", 600);
+            VehiculoDeCarrera moto3 = new MotoCross(1,"KLR", 1500);
 
 
             if (competencia1 + auto1)
@@ -29,6 +29,15 @@ namespace Ejercicio_30
             {
                 Console.WriteLine($"No se pudo agregar");
             }
+            if (competencia1 + moto1)
+            {
+                Console.WriteLine($"Se agregó ");
+            }
+            else 
+            {
+                Console.WriteLine($"No se pudo agregar");
+            }
+
             if (competencia1 + auto2)
             {
                 Console.WriteLine($"Se agregó ");
@@ -45,6 +54,14 @@ namespace Ejercicio_30
             {
                 Console.WriteLine($"No se pudo agregar");
             }
+            if (competencia1 + moto2)
+            {
+                Console.WriteLine($"Se agregó ");
+            }
+            else
+            {
+                Console.WriteLine($"No se pudo agregar");
+            }
             if (competencia1 - auto2)
             {
                 Console.WriteLine($"Se elimino \n ");
@@ -52,6 +69,14 @@ namespace Ejercicio_30
             else
             {
                 Console.WriteLine("no se pudo \n");
+            }
+            if (competencia1 + moto3)
+            {
+                Console.WriteLine($"Se agregó ");
+            }
+            else
+            {
+                Console.WriteLine($"No se pudo agregar");
             }
 
             Console.WriteLine(competencia1.MostrarDatos());

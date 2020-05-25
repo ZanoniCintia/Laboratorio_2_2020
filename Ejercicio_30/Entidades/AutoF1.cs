@@ -8,59 +8,42 @@ namespace Entidades
 {
 #pragma warning disable CS0660, CS0661
 
-    public class AutoF1
+    public class AutoF1:VehiculoDeCarrera
     {
-        private short cantidadCombustible;
-        private bool competencia;
-        private string escuderia;
-        private short numero;
-        private short vueltaRestante;
+        private short caballoDeFuerza;
 
-        public AutoF1(string escuderia, short numero)
+        public short CaballoDeFuerza
         {
-            this.escuderia = escuderia;
-            this.numero = numero;
-            this.competencia=false;
-            this.vueltaRestante = 0;
-            this.cantidadCombustible = 0;
+            get { return this.caballoDeFuerza; }
+            set { this.caballoDeFuerza = value; }
         }
 
-        public string MostrarDatos()
+        public AutoF1(short numero,string escuderia)
+            : base(numero, escuderia)
+        {
+
+        }
+        public AutoF1(short numero, string escuderia,short caballoDeFuerza)
+            : this(numero, escuderia)           
+        {
+            this.caballoDeFuerza = caballoDeFuerza;
+        }
+
+        public override string  MostrarDatos()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"Numero :{this.numero}");
-            sb.AppendLine($"Escuderia :{this.escuderia}");
-            sb.AppendLine($"Competencia :{this.competencia}");
-            sb.AppendLine($"Vueltas restantes :{this.vueltaRestante}");
-            sb.AppendLine($"Cantidad de combustible :{this.cantidadCombustible}");
+            sb.AppendLine($"{base.MostrarDatos()}");
+            sb.AppendLine($"Caballos de fuerza : {this.CaballoDeFuerza}");
             return sb.ToString();
         }
 
-        
-        public short CantidadCombustible
+
+        public static bool operator ==(AutoF1 a1, AutoF1 a2)
         {
-            get { return cantidadCombustible; }
-            set { cantidadCombustible = value; }
-        }
-       
-        public bool EnCompetencia
-        {
-            get { return competencia; }
-            set { competencia = value; }
-        }
-      
-        public short VueltasRestantes
-        {
-            get { return vueltaRestante; }
-            set { vueltaRestante = value; }
+            return (a1 == a2 && a1.CaballoDeFuerza == a2.CaballoDeFuerza);
         }
 
-        public static bool operator ==(AutoF1 a1,AutoF1 a2)
-        {
-           
-            return a1.escuderia == a2.escuderia || a1.numero == a2.numero;
-        }
-        public static bool operator !=(AutoF1 a1,AutoF1 a2)
+        public static bool operator !=(AutoF1 a1, AutoF1 a2)
         {
             return !(a1 == a2);
         }

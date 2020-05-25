@@ -122,3 +122,23 @@ C:\Users\Dell-7480T\Desktop\Recu\Recu\VistaForm\obj\Debug\VistaForm.csproj.Gener
 C:\Users\Dell-7480T\Desktop\Recu\Recu\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
 C:\Users\Dell-7480T\Desktop\Recu\Recu\VistaForm\obj\Debug\VistaForm.exe
 C:\Users\Dell-7480T\Desktop\Recu\Recu\VistaForm\obj\Debug\VistaForm.pdb
+C:\Nueva carpeta\Laboratorio_2_2020\Recuperatorio. Zanoni.Cintia.2C\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Nueva carpeta\Laboratorio_2_2020\Recuperatorio. Zanoni.Cintia.2C\VistaForm\bin\Debug\VistaForm.exe
+C:\Nueva carpeta\Laboratorio_2_2020\Recuperatorio. Zanoni.Cintia.2C\VistaForm\bin\Debug\VistaForm.pdb
+C:\Nueva carpeta\Laboratorio_2_2020\Recuperatorio. Zanoni.Cintia.2C\VistaForm\bin\Debug\Entidades.dll
+C:\Nueva carpeta\Laboratorio_2_2020\Recuperatorio. Zanoni.Cintia.2C\VistaForm\bin\Debug\Entidades.pdb
+C:\Nueva carpeta\Laboratorio_2_2020\Recuperatorio. Zanoni.Cintia.2C\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+C:\Nueva carpeta\Laboratorio_2_2020\Recuperatorio. Zanoni.Cintia.2C\VistaForm\obj\Debug\VistaForm.FrmCantidad.resources
+C:\Nueva carpeta\Laboratorio_2_2020\Recuperatorio. Zanoni.Cintia.2C\VistaForm\obj\Debug\VistaForm.FrmCargaDeProducto.resources
+C:\Nueva carpeta\Laboratorio_2_2020\Recuperatorio. Zanoni.Cintia.2C\VistaForm\obj\Debug\VistaForm.FrmCarrito.resources
+C:\Nueva carpeta\Laboratorio_2_2020\Recuperatorio. Zanoni.Cintia.2C\VistaForm\obj\Debug\VistaForm.FrmControlPedidosRealizadosAdministrador.resources
+C:\Nueva carpeta\Laboratorio_2_2020\Recuperatorio. Zanoni.Cintia.2C\VistaForm\obj\Debug\VistaForm.FrmEliminarProducto.resources
+C:\Nueva carpeta\Laboratorio_2_2020\Recuperatorio. Zanoni.Cintia.2C\VistaForm\obj\Debug\VistaForm.FrmListar.resources
+C:\Nueva carpeta\Laboratorio_2_2020\Recuperatorio. Zanoni.Cintia.2C\VistaForm\obj\Debug\VistaForm.FrmLogInFerreteria.resources
+C:\Nueva carpeta\Laboratorio_2_2020\Recuperatorio. Zanoni.Cintia.2C\VistaForm\obj\Debug\VistaForm.FrmVistaAdministrador.resources
+C:\Nueva carpeta\Laboratorio_2_2020\Recuperatorio. Zanoni.Cintia.2C\VistaForm\obj\Debug\VistaForm.FrmVistaUsuario.resources
+C:\Nueva carpeta\Laboratorio_2_2020\Recuperatorio. Zanoni.Cintia.2C\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Nueva carpeta\Laboratorio_2_2020\Recuperatorio. Zanoni.Cintia.2C\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\Nueva carpeta\Laboratorio_2_2020\Recuperatorio. Zanoni.Cintia.2C\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+C:\Nueva carpeta\Laboratorio_2_2020\Recuperatorio. Zanoni.Cintia.2C\VistaForm\obj\Debug\VistaForm.exe
+C:\Nueva carpeta\Laboratorio_2_2020\Recuperatorio. Zanoni.Cintia.2C\VistaForm\obj\Debug\VistaForm.pdb
