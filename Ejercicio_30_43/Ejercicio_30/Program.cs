@@ -21,64 +21,72 @@ namespace Ejercicio_30
             VehiculoDeCarrera moto3 = new MotoCross(1,"KLR", 1500);
 
 
-            if (competencia1 + auto1)
+            try
             {
-                Console.WriteLine($"Se agregó ");
-            }
-            else
-            {
-                Console.WriteLine($"No se pudo agregar");
-            }
-            if (competencia1 + moto1)
-            {
-                Console.WriteLine($"Se agregó ");
-            }
-            else 
-            {
-                Console.WriteLine($"No se pudo agregar");
-            }
+                if (competencia1 + auto1)
+                {
+                    Console.WriteLine($"Se agregó ");
+                }
+                else
+                {
+                    Console.WriteLine($"No se pudo agregar");
+                }
+                if (competencia1 + auto2)
+                {
+                    Console.WriteLine($"Se agregó ");
+                }
+                else
+                {
+                    Console.WriteLine($"No se pudo agregar");
+                }
 
-            if (competencia1 + auto2)
-            {
-                Console.WriteLine($"Se agregó ");
-            }
-            else
-            {
-                Console.WriteLine($"No se pudo agregar");
-            }
-            if (competencia1 + auto3)
-            {
-                Console.WriteLine($"Se agregó ");
-            }
-            else
-            {
-                Console.WriteLine($"No se pudo agregar");
-            }
-            if (competencia1 + moto2)
-            {
-                Console.WriteLine($"Se agregó ");
-            }
-            else
-            {
-                Console.WriteLine($"No se pudo agregar");
-            }
-            if (competencia1 - auto2)
-            {
-                Console.WriteLine($"Se elimino \n ");
-            }
-            else
-            {
-                Console.WriteLine("no se pudo \n");
-            }
-            if (competencia1 + moto3)
-            {
-                Console.WriteLine($"Se agregó ");
-            }
-            else
-            {
-                Console.WriteLine($"No se pudo agregar");
-            }
+                if (competencia1 + moto1)
+                {
+                    Console.WriteLine($"Se agregó ");
+                }
+                else
+                {
+                    Console.WriteLine($"No se pudo agregar");
+                }
+                if (competencia1 + auto3)
+                {
+                    Console.WriteLine($"Se agregó ");
+                }
+                else
+                {
+                    Console.WriteLine($"No se pudo agregar");
+                }
+                if (competencia1 + moto2)
+                {
+                    Console.WriteLine($"Se agregó ");
+                }
+                else
+                {
+                    Console.WriteLine($"No se pudo agregar");
+                }
+                if (competencia1 - auto2)
+                {
+                    Console.WriteLine($"Se elimino \n ");
+                }
+                else
+                {
+                    Console.WriteLine("no se pudo \n");
+                }
+                if (competencia1 + moto3)
+                {
+                    Console.WriteLine($"Se agregó ");
+                }
+                else
+                {
+                    Console.WriteLine($"No se pudo agregar");
+                }
 
+            }
+            catch (CompetenciaNoDisponibleException e)
+            {
+
+                Console.WriteLine(e.ToString());
+            }
             Console.WriteLine(competencia1.MostrarDatos());
             Console.ReadKey();
 

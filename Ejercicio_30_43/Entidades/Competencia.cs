@@ -90,7 +90,7 @@ namespace Entidades
         public static bool operator ==(Competencia c,VehiculoDeCarrera v)//no esta claro
         {
             bool retorno = false;
-            if((c.Tipo == TipoCompetencia.F1 && v is MotoCross) || (c.Tipo == TipoCompetencia.MotoCross && v is AutoF1))
+            if((c.tipo == TipoCompetencia.F1 && v is MotoCross) || (c.tipo == TipoCompetencia.MotoCross && v is AutoF1))
             {
                 throw new CompetenciaNoDisponibleException("El vehiculo no corresponde a la competencia", "Competencia", "Operador ==");
             }
@@ -133,35 +133,9 @@ namespace Entidades
                 {
                     throw new CompetenciaNoDisponibleException("Competencia incorrecta", "Competencia", "Operador +",e);
                 }
-              
-
-
             }
-            
-                /*  bool retorno = false;
-                  Random aleatorio = new Random();
-                  if(!(c is null) && !(v is null))
-                  {
+            return retorno;
 
-                      if (c.competidores.Count <= c.cantidadCompetidores && c == v)
-                      {
-                          foreach (VehiculoDeCarrera auxVehiculo in c.competidores)
-                          {
-                              if(auxVehiculo != v)
-                              {
-                                  c.competidores.Add(v);
-                                  v.EnCompetencia = true;
-                                  v.VueltasRestantes = c.cantidadVueltas;
-                                  v.CantidadCombustible = (short)aleatorio.Next(15, 100);
-                                  retorno = true;
-                                  break;
-                              }
-
-                          }
-                      }
-
-                  }*/
-                return retorno;
         }
 
         public static bool operator -(Competencia c, VehiculoDeCarrera v)
