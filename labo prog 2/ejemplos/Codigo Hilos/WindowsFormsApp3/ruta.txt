@@ -1,0 +1,3 @@
+string ruta = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + ".\\SegundoParcialUtn\\ArchivosClinica\\DoctoresSegundaClinica.xml";
+-------------------------------------------------
+string ruta = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + ".\\SegundoParcialUtn\\ArchivosClinica\\PacientesSegundaClinica.xml";
